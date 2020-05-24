@@ -8,7 +8,7 @@ Link to sources: https://docs.google.com/spreadsheets/d/1JdDV2l1alA0twOyZlSWiZHC
 
 ---------------------------------
 
-There is also an automated script that allow you to download updated dailycases and align them to GADM administrative areas codes and NUTS_2 administrative areas codes for European countries.
+There is also an automated script that allow you to download updated dailycases and align them to GADM administrative areas codes and NUTS_2 administrative areas codes (for European countries).
 If you would running this you must:
 1. clone the repo into your home
 2. Then cd to covid_19 dir
