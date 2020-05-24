@@ -16,13 +16,13 @@ If you would running this you must:
 
 You need last version of R and Python installed and some modules are needed to run the script.
 
-For R:
+**R requirements**:
 - tidyverse
 - plyr
 - readr
 - reticulate
 
-For Python:
+**Python requirements**:
 - Pandas
 - Numpy
 - streamlit
