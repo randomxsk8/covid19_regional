@@ -6,7 +6,9 @@ You can find COVID-19 dailycases data under 'csv_final' folder.
 
 Link to sources: https://docs.google.com/spreadsheets/d/1JdDV2l1alA0twOyZlSWiZHCd4IXfaM51Vy3CVV8lRYU/edit?usp=sharing
 
-There is an automated script that allowed you to download updated dailycases aligned to GADM administrative areas and NUTS_2 administrative areas for European countries.
+---------------------------------
+
+There is also an automated script that allow you to download updated dailycases and align them to GADM administrative areas codes and NUTS_2 administrative areas codes for European countries.
 If you would running this you must:
 1. clone the repo into your home
 2. Then cd to covid_19 dir
