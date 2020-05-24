@@ -26,3 +26,7 @@ For Python:
 - streamlit
 - json
 - fuzzymatcher
+
+---------------------------
+
+There are also some notebooks that describe data with geopandas under notebook folder!
