@@ -2,7 +2,7 @@
 ## Dailycases of COVID-19 pandemic at regional level
 
 In this repo are stored dailycases by region for country since COVID-19 spread. You can download them separate for country,continent, or the entire csv.
-You can find COVID-19 dailycases data under 'csv_final' folder.
+You can find COVID-19 dailycases data under 'csv_final' folder (most of the countries are updated to 10-01-2020).
 
 Link to sources: https://docs.google.com/spreadsheets/d/1JdDV2l1alA0twOyZlSWiZHCd4IXfaM51Vy3CVV8lRYU/edit?usp=sharing
 
