@@ -11,8 +11,10 @@ Link to sources: https://docs.google.com/spreadsheets/d/1JdDV2l1alA0twOyZlSWiZHC
 There is also an automated script that allow you to download updated dailycases and align them to GADM administrative areas codes and NUTS_2 administrative areas codes (for European countries).
 If you would running this you must:
 1. clone the repo into your home
-2. Then cd to covid_19 dir
-3. run extract.sh
+2. extract all files into a new folder and rename it as covid19_regional or simply rename covid19_regional-master into covid19_regional
+3. Then open the shell and cd to covid19_regional dir
+4. Make executable the extract.sh script with chmod +x extract.sh
+5. run extract.sh
 
 You need last version of R and Python installed and some modules are needed to run the script.
 
