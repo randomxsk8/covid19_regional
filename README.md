@@ -13,8 +13,9 @@ If you would running this you must:
 1. clone the repo into your home
 2. extract all files into a new folder and rename it as covid19_regional or simply rename covid19_regional-master into covid19_regional
 3. Then open the shell and cd to covid19_regional dir
-4. Make executable the extract.sh script with chmod +x extract.sh
-5. run extract.sh
+4. Make executable the extract.sh script with chmod ugo+x extract.sh
+5. Make executable the site_alignment.py script with chmod ugo+x site_alignment.py
+5. run ./extract.sh
 
 You need last version of R and Python installed and some modules are needed to run the script.
 
