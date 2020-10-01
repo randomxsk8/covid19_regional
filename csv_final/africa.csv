@@ -1,0 +1,2227 @@
+,state,date,region_name,dailycases,note,CODE_2
+0,Algeria,2020-03-15,Adrar,1,,DZA.1_1
+1,Algeria,2020-03-24,Adrar,1,,DZA.1_1
+2,Algeria,2020-04-01,Adrar,1,,DZA.1_1
+3,Algeria,2020-03-25,Aïn Defla,1,,DZA.2_1
+4,Algeria,2020-03-27,Aïn Defla,1,,DZA.2_1
+5,Algeria,2020-03-28,Aïn Defla,1,,DZA.2_1
+6,Algeria,2020-03-29,Aïn Defla,9,,DZA.2_1
+7,Algeria,2020-03-30,Aïn Defla,2,,DZA.2_1
+8,Algeria,2020-03-31,Aïn Defla,2,,DZA.2_1
+9,Algeria,2020-04-01,Aïn Defla,2,,DZA.2_1
+10,Algeria,2020-04-02,Aïn Defla,5,,DZA.2_1
+11,Algeria,2020-04-03,Aïn Defla,8,,DZA.2_1
+12,Algeria,2020-03-23,Aïn Témouchent,1,,DZA.3_1
+13,Algeria,2020-03-30,Aïn Témouchent,1,,DZA.3_1
+14,Algeria,2020-03-31,Aïn Témouchent,1,,DZA.3_1
+15,Algeria,2020-04-01,Aïn Témouchent,2,,DZA.3_1
+16,Algeria,2020-04-03,Aïn Témouchent,1,,DZA.3_1
+17,Algeria,2020-04-04,Aïn Témouchent,1,,DZA.3_1
+18,Algeria,2020-03-13,Alger,1,,DZA.4_1
+19,Algeria,2020-03-16,Alger,2,,DZA.4_1
+20,Algeria,2020-03-18,Alger,5,,DZA.4_1
+21,Algeria,2020-03-19,Alger,4,,DZA.4_1
+22,Algeria,2020-03-21,Alger,2,,DZA.4_1
+23,Algeria,2020-03-22,Alger,12,,DZA.4_1
+24,Algeria,2020-03-23,Alger,7,,DZA.4_1
+25,Algeria,2020-03-24,Alger,12,,DZA.4_1
+26,Algeria,2020-03-25,Alger,11,,DZA.4_1
+27,Algeria,2020-03-26,Alger,11,,DZA.4_1
+28,Algeria,2020-03-27,Alger,6,,DZA.4_1
+29,Algeria,2020-03-28,Alger,8,,DZA.4_1
+30,Algeria,2020-03-29,Alger,10,,DZA.4_1
+31,Algeria,2020-03-30,Alger,14,,DZA.4_1
+32,Algeria,2020-03-31,Alger,20,,DZA.4_1
+33,Algeria,2020-04-01,Alger,11,,DZA.4_1
+34,Algeria,2020-04-02,Alger,18,,DZA.4_1
+35,Algeria,2020-04-03,Alger,29,,DZA.4_1
+36,Algeria,2020-04-04,Alger,24,,DZA.4_1
+37,Algeria,2020-03-16,Annaba,1,,DZA.5_1
+38,Algeria,2020-03-19,Annaba,3,,DZA.5_1
+39,Algeria,2020-03-21,Annaba,2,,DZA.5_1
+40,Algeria,2020-04-03,Annaba,2,,DZA.5_1
+41,Algeria,2020-04-04,Annaba,1,,DZA.5_1
+42,Algeria,2020-03-26,Batna,2,,DZA.6_1
+43,Algeria,2020-04-01,Batna,4,,DZA.6_1
+44,Algeria,2020-04-02,Batna,6,,DZA.6_1
+45,Algeria,2020-04-04,Batna,2,,DZA.6_1
+46,Algeria,2020-04-03,Béchar,1,,DZA.7_1
+47,Algeria,2020-03-17,Béjaïa,1,,DZA.8_1
+48,Algeria,2020-03-22,Béjaïa,4,,DZA.8_1
+49,Algeria,2020-03-27,Béjaïa,3,,DZA.8_1
+50,Algeria,2020-03-28,Béjaïa,3,,DZA.8_1
+51,Algeria,2020-03-29,Béjaïa,4,,DZA.8_1
+52,Algeria,2020-03-30,Béjaïa,5,,DZA.8_1
+53,Algeria,2020-03-31,Béjaïa,6,,DZA.8_1
+54,Algeria,2020-04-01,Béjaïa,3,,DZA.8_1
+55,Algeria,2020-04-02,Béjaïa,7,,DZA.8_1
+56,Algeria,2020-04-03,Béjaïa,10,,DZA.8_1
+57,Algeria,2020-04-04,Béjaïa,4,,DZA.8_1
+58,Algeria,2020-03-25,Biskra,1,,DZA.9_1
+59,Algeria,2020-03-27,Biskra,1,,DZA.9_1
+60,Algeria,2020-04-03,Biskra,4,,DZA.9_1
+61,Algeria,2020-03-01,Blida,2,,DZA.10_1
+62,Algeria,2020-03-02,Blida,2,,DZA.10_1
+63,Algeria,2020-03-04,Blida,7,,DZA.10_1
+64,Algeria,2020-03-05,Blida,5,,DZA.10_1
+65,Algeria,2020-03-12,Blida,5,,DZA.10_1
+66,Algeria,2020-03-13,Blida,8,,DZA.10_1
+67,Algeria,2020-03-15,Blida,15,,DZA.10_1
+68,Algeria,2020-03-18,Blida,3,,DZA.10_1
+69,Algeria,2020-03-21,Blida,31,,DZA.10_1
+70,Algeria,2020-03-22,Blida,31,,DZA.10_1
+71,Algeria,2020-03-23,Blida,15,,DZA.10_1
+72,Algeria,2020-03-24,Blida,11,,DZA.10_1
+73,Algeria,2020-03-25,Blida,15,,DZA.10_1
+74,Algeria,2020-03-26,Blida,26,,DZA.10_1
+75,Algeria,2020-03-27,Blida,4,,DZA.10_1
+76,Algeria,2020-03-28,Blida,12,,DZA.10_1
+77,Algeria,2020-03-29,Blida,27,,DZA.10_1
+78,Algeria,2020-03-30,Blida,25,,DZA.10_1
+79,Algeria,2020-03-31,Blida,50,,DZA.10_1
+80,Algeria,2020-04-01,Blida,48,,DZA.10_1
+81,Algeria,2020-04-02,Blida,43,,DZA.10_1
+82,Algeria,2020-04-03,Blida,47,,DZA.10_1
+83,Algeria,2020-04-04,Blida,15,,DZA.10_1
+84,Algeria,2020-03-16,Bordj Bou Arréridj,1,,DZA.11_1
+85,Algeria,2020-03-19,Bordj Bou Arréridj,1,,DZA.11_1
+86,Algeria,2020-03-25,Bordj Bou Arréridj,1,,DZA.11_1
+87,Algeria,2020-03-26,Bordj Bou Arréridj,2,,DZA.11_1
+88,Algeria,2020-03-29,Bordj Bou Arréridj,1,,DZA.11_1
+89,Algeria,2020-03-30,Bordj Bou Arréridj,2,,DZA.11_1
+90,Algeria,2020-03-31,Bordj Bou Arréridj,3,,DZA.11_1
+91,Algeria,2020-04-02,Bordj Bou Arréridj,1,,DZA.11_1
+92,Algeria,2020-04-03,Bordj Bou Arréridj,9,,DZA.11_1
+93,Algeria,2020-04-04,Bordj Bou Arréridj,4,,DZA.11_1
+94,Algeria,2020-03-16,Bouira,1,,DZA.12_1
+95,Algeria,2020-03-19,Bouira,1,,DZA.12_1
+96,Algeria,2020-03-22,Bouira,1,,DZA.12_1
+97,Algeria,2020-03-30,Bouira,1,,DZA.12_1
+98,Algeria,2020-03-31,Bouira,2,,DZA.12_1
+99,Algeria,2020-04-01,Bouira,1,,DZA.12_1
+100,Algeria,2020-04-02,Bouira,2,,DZA.12_1
+101,Algeria,2020-04-03,Bouira,1,,DZA.12_1
+102,Algeria,2020-03-19,Boumerdès,1,,DZA.13_1
+103,Algeria,2020-03-22,Boumerdès,1,,DZA.13_1
+104,Algeria,2020-03-26,Boumerdès,2,,DZA.13_1
+105,Algeria,2020-03-30,Boumerdès,2,,DZA.13_1
+106,Algeria,2020-03-31,Boumerdès,3,,DZA.13_1
+107,Algeria,2020-04-01,Boumerdès,1,,DZA.13_1
+108,Algeria,2020-04-02,Boumerdès,1,,DZA.13_1
+109,Algeria,2020-04-03,Boumerdès,3,,DZA.13_1
+110,Algeria,2020-04-04,Boumerdès,2,,DZA.13_1
+111,Algeria,2020-03-23,Chlef,1,,DZA.14_1
+112,Algeria,2020-03-28,Chlef,1,,DZA.14_1
+113,Algeria,2020-03-29,Chlef,2,,DZA.14_1
+114,Algeria,2020-03-30,Chlef,1,,DZA.14_1
+115,Algeria,2020-03-31,Chlef,2,,DZA.14_1
+116,Algeria,2020-04-01,Chlef,1,,DZA.14_1
+117,Algeria,2020-04-02,Chlef,2,,DZA.14_1
+118,Algeria,2020-04-03,Chlef,5,,DZA.14_1
+119,Algeria,2020-03-22,Constantine,1,,DZA.15_1
+120,Algeria,2020-03-26,Constantine,2,,DZA.15_1
+121,Algeria,2020-03-31,Constantine,5,,DZA.15_1
+122,Algeria,2020-04-01,Constantine,3,,DZA.15_1
+123,Algeria,2020-04-03,Constantine,1,,DZA.15_1
+124,Algeria,2020-04-04,Constantine,5,,DZA.15_1
+125,Algeria,2020-03-27,Djelfa,2,,DZA.16_1
+126,Algeria,2020-04-01,Djelfa,3,,DZA.16_1
+127,Algeria,2020-04-02,Djelfa,2,,DZA.16_1
+128,Algeria,2020-04-03,Djelfa,1,,DZA.16_1
+129,Algeria,2020-04-04,Djelfa,3,,DZA.16_1
+130,Algeria,2020-03-19,El Oued,2,,DZA.18_1
+131,Algeria,2020-03-22,El Oued,1,,DZA.18_1
+132,Algeria,2020-03-24,El Oued,1,,DZA.18_1
+133,Algeria,2020-03-26,El Oued,1,,DZA.18_1
+134,Algeria,2020-03-31,El Oued,2,,DZA.18_1
+135,Algeria,2020-04-01,El Oued,9,,DZA.18_1
+136,Algeria,2020-03-27,El Tarf,2,,DZA.19_1
+137,Algeria,2020-03-31,El Tarf,2,,DZA.19_1
+138,Algeria,2020-03-27,Ghardaïa,1,,DZA.20_1
+139,Algeria,2020-04-01,Ghardaïa,1,,DZA.20_1
+140,Algeria,2020-03-15,Guelma,1,,DZA.21_1
+141,Algeria,2020-03-22,Guelma,1,,DZA.21_1
+142,Algeria,2020-03-30,Guelma,1,,DZA.21_1
+143,Algeria,2020-03-31,Illizi,1,,DZA.22_1
+144,Algeria,2020-03-23,Jijel,1,,DZA.23_1
+145,Algeria,2020-03-25,Jijel,1,,DZA.23_1
+146,Algeria,2020-03-31,Jijel,2,,DZA.23_1
+147,Algeria,2020-04-01,Jijel,7,,DZA.23_1
+148,Algeria,2020-04-03,Jijel,4,,DZA.23_1
+149,Algeria,2020-04-04,Jijel,2,,DZA.23_1
+150,Algeria,2020-03-21,Khenchela,1,,DZA.24_1
+151,Algeria,2020-03-24,Khenchela,1,,DZA.24_1
+152,Algeria,2020-04-04,Khenchela,1,,DZA.24_1
+153,Algeria,2020-03-26,Laghouat,1,,DZA.25_1
+154,Algeria,2020-03-31,M'Sila,1,,DZA.26_1
+155,Algeria,2020-04-03,M'Sila,1,,DZA.26_1
+156,Algeria,2020-03-05,Mascara,2,,DZA.27_1
+157,Algeria,2020-03-25,Mascara,1,,DZA.27_1
+158,Algeria,2020-03-27,Mascara,2,,DZA.27_1
+159,Algeria,2020-03-31,Mascara,2,,DZA.27_1
+160,Algeria,2020-04-01,Mascara,2,,DZA.27_1
+161,Algeria,2020-04-02,Mascara,1,,DZA.27_1
+162,Algeria,2020-04-03,Mascara,5,,DZA.27_1
+163,Algeria,2020-03-18,Médéa,1,,DZA.28_1
+164,Algeria,2020-03-19,Médéa,1,,DZA.28_1
+165,Algeria,2020-03-25,Médéa,1,,DZA.28_1
+166,Algeria,2020-03-26,Médéa,1,,DZA.28_1
+167,Algeria,2020-03-27,Médéa,3,,DZA.28_1
+168,Algeria,2020-03-28,Médéa,3,,DZA.28_1
+169,Algeria,2020-03-31,Médéa,7,,DZA.28_1
+170,Algeria,2020-04-01,Médéa,4,,DZA.28_1
+171,Algeria,2020-04-02,Médéa,1,,DZA.28_1
+172,Algeria,2020-04-04,Médéa,3,,DZA.28_1
+173,Algeria,2020-04-04,Mila,1,,DZA.29_1
+174,Algeria,2020-03-23,Mostaganem,1,,DZA.30_1
+175,Algeria,2020-03-26,Mostaganem,1,,DZA.30_1
+176,Algeria,2020-03-27,Mostaganem,3,,DZA.30_1
+177,Algeria,2020-04-01,Mostaganem,2,,DZA.30_1
+178,Algeria,2020-04-02,Mostaganem,10,,DZA.30_1
+179,Algeria,2020-04-03,Mostaganem,1,,DZA.30_1
+180,Algeria,2020-03-19,Oran,1,,DZA.32_1
+181,Algeria,2020-03-20,Oran,5,,DZA.32_1
+182,Algeria,2020-03-22,Oran,6,,DZA.32_1
+183,Algeria,2020-03-24,Oran,1,,DZA.32_1
+184,Algeria,2020-03-25,Oran,1,,DZA.32_1
+185,Algeria,2020-03-26,Oran,2,,DZA.32_1
+186,Algeria,2020-03-27,Oran,4,,DZA.32_1
+187,Algeria,2020-03-28,Oran,2,,DZA.32_1
+188,Algeria,2020-03-29,Oran,4,,DZA.32_1
+189,Algeria,2020-03-30,Oran,8,,DZA.32_1
+190,Algeria,2020-03-31,Oran,10,,DZA.32_1
+191,Algeria,2020-04-01,Oran,4,,DZA.32_1
+192,Algeria,2020-04-02,Oran,14,,DZA.32_1
+193,Algeria,2020-04-03,Oran,2,,DZA.32_1
+194,Algeria,2020-04-04,Oran,1,,DZA.32_1
+195,Algeria,2020-02-25,Ouargla,1,,DZA.33_1
+196,Algeria,2020-04-01,Ouargla,1,,DZA.33_1
+197,Algeria,2020-03-26,Oum el Bouaghi,2,,DZA.34_1
+198,Algeria,2020-04-01,Oum el Bouaghi,2,,DZA.34_1
+199,Algeria,2020-04-03,Oum el Bouaghi,2,,DZA.34_1
+200,Algeria,2020-04-04,Oum el Bouaghi,1,,DZA.34_1
+201,Algeria,2020-03-21,Relizane,1,,DZA.35_1
+202,Algeria,2020-04-01,Relizane,2,,DZA.35_1
+203,Algeria,2020-04-02,Relizane,2,,DZA.35_1
+204,Algeria,2020-04-03,Relizane,2,,DZA.35_1
+205,Algeria,2020-03-19,Sétif,1,,DZA.37_1
+206,Algeria,2020-03-24,Sétif,1,,DZA.37_1
+207,Algeria,2020-03-25,Sétif,2,,DZA.37_1
+208,Algeria,2020-03-26,Sétif,3,,DZA.37_1
+209,Algeria,2020-03-27,Sétif,1,,DZA.37_1
+210,Algeria,2020-03-28,Sétif,2,,DZA.37_1
+211,Algeria,2020-03-30,Sétif,2,,DZA.37_1
+212,Algeria,2020-03-31,Sétif,7,,DZA.37_1
+213,Algeria,2020-04-01,Sétif,4,,DZA.37_1
+214,Algeria,2020-04-02,Sétif,2,,DZA.37_1
+215,Algeria,2020-04-03,Sétif,18,,DZA.37_1
+216,Algeria,2020-04-04,Sétif,4,,DZA.37_1
+217,Algeria,2020-03-23,Sidi Bel Abbès,1,,DZA.38_1
+218,Algeria,2020-03-27,Sidi Bel Abbès,1,,DZA.38_1
+219,Algeria,2020-03-28,Sidi Bel Abbès,1,,DZA.38_1
+220,Algeria,2020-03-30,Sidi Bel Abbès,1,,DZA.38_1
+221,Algeria,2020-03-31,Sidi Bel Abbès,2,,DZA.38_1
+222,Algeria,2020-04-01,Sidi Bel Abbès,2,,DZA.38_1
+223,Algeria,2020-04-02,Sidi Bel Abbès,1,,DZA.38_1
+224,Algeria,2020-04-03,Sidi Bel Abbès,1,,DZA.38_1
+225,Algeria,2020-03-17,Skikda,1,,DZA.39_1
+226,Algeria,2020-03-19,Skikda,4,,DZA.39_1
+227,Algeria,2020-03-21,Skikda,2,,DZA.39_1
+228,Algeria,2020-03-22,Skikda,1,,DZA.39_1
+229,Algeria,2020-04-01,Skikda,4,,DZA.39_1
+230,Algeria,2020-04-02,Skikda,1,,DZA.39_1
+231,Algeria,2020-04-03,Skikda,4,,DZA.39_1
+232,Algeria,2020-03-12,Souk Ahras,1,,DZA.40_1
+233,Algeria,2020-03-26,Souk Ahras,1,,DZA.40_1
+234,Algeria,2020-03-27,Souk Ahras,1,,DZA.40_1
+235,Algeria,2020-04-01,Souk Ahras,1,,DZA.40_1
+236,Algeria,2020-04-03,Souk Ahras,2,,DZA.40_1
+237,Algeria,2020-04-03,Tébessa,1,,DZA.42_1
+238,Algeria,2020-04-04,Tébessa,2,,DZA.42_1
+239,Algeria,2020-04-02,Tiaret,1,,DZA.43_1
+240,Algeria,2020-03-23,Tipaza,1,,DZA.45_1
+241,Algeria,2020-03-24,Tipaza,3,,DZA.45_1
+242,Algeria,2020-03-25,Tipaza,1,,DZA.45_1
+243,Algeria,2020-03-26,Tipaza,4,,DZA.45_1
+244,Algeria,2020-03-27,Tipaza,3,,DZA.45_1
+245,Algeria,2020-03-28,Tipaza,2,,DZA.45_1
+246,Algeria,2020-03-30,Tipaza,4,,DZA.45_1
+247,Algeria,2020-04-01,Tipaza,3,,DZA.45_1
+248,Algeria,2020-04-02,Tipaza,6,,DZA.45_1
+249,Algeria,2020-04-03,Tipaza,5,,DZA.45_1
+250,Algeria,2020-04-04,Tipaza,2,,DZA.45_1
+251,Algeria,2020-03-19,Tissemsilt,1,,DZA.46_1
+252,Algeria,2020-04-02,Tissemsilt,1,,DZA.46_1
+253,Algeria,2020-03-11,Tizi Ouzou,1,,DZA.47_1
+254,Algeria,2020-03-13,Tizi Ouzou,2,,DZA.47_1
+255,Algeria,2020-03-16,Tizi Ouzou,1,,DZA.47_1
+256,Algeria,2020-03-18,Tizi Ouzou,1,,DZA.47_1
+257,Algeria,2020-03-19,Tizi Ouzou,2,,DZA.47_1
+258,Algeria,2020-03-21,Tizi Ouzou,1,,DZA.47_1
+259,Algeria,2020-03-22,Tizi Ouzou,3,,DZA.47_1
+260,Algeria,2020-03-24,Tizi Ouzou,1,,DZA.47_1
+261,Algeria,2020-03-25,Tizi Ouzou,2,,DZA.47_1
+262,Algeria,2020-03-27,Tizi Ouzou,4,,DZA.47_1
+263,Algeria,2020-03-28,Tizi Ouzou,6,,DZA.47_1
+264,Algeria,2020-03-30,Tizi Ouzou,3,,DZA.47_1
+265,Algeria,2020-03-31,Tizi Ouzou,2,,DZA.47_1
+266,Algeria,2020-04-01,Tizi Ouzou,2,,DZA.47_1
+267,Algeria,2020-04-02,Tizi Ouzou,9,,DZA.47_1
+268,Algeria,2020-04-04,Tizi Ouzou,1,,DZA.47_1
+269,Algeria,2020-03-23,Tlemcen,1,,DZA.48_1
+270,Algeria,2020-03-24,Tlemcen,2,,DZA.48_1
+271,Algeria,2020-03-26,Tlemcen,4,,DZA.48_1
+272,Algeria,2020-03-28,Tlemcen,4,,DZA.48_1
+273,Algeria,2020-03-30,Tlemcen,1,,DZA.48_1
+274,Algeria,2020-04-01,Tlemcen,1,,DZA.48_1
+275,Algeria,2020-04-02,Tlemcen,3,,DZA.48_1
+276,Algeria,2020-04-03,Tlemcen,15,,DZA.48_1
+277,Algeria,2020-04-04,Tlemcen,1,,DZA.48_1
+278,Ethiopia,2020-03-27,Addis Abeba,1,,ETH.1_1
+279,Ethiopia,2020-03-13,Addis Abeba,1,,ETH.1_1
+280,Ethiopia,2020-03-15,Addis Abeba,4,,ETH.1_1
+281,Ethiopia,2020-03-17,Addis Abeba,1,,ETH.1_1
+282,Ethiopia,2020-03-19,Addis Abeba,3,,ETH.1_1
+283,Ethiopia,2020-03-22,Addis Abeba,2,,ETH.1_1
+284,Ethiopia,2020-03-24,Addis Abeba,1,,ETH.1_1
+285,Ethiopia,2020-03-27,Addis Abeba,2,,ETH.1_1
+286,Ethiopia,2020-03-28,Addis Abeba,1,,ETH.1_1
+287,Ethiopia,2020-03-29,Addis Abeba,2,,ETH.1_1
+288,Ethiopia,2020-03-31,Addis Abeba,3,,ETH.1_1
+289,Ethiopia,2020-04-01,Addis Abeba,3,,ETH.1_1
+290,Ethiopia,2020-04-03,Addis Abeba,5,,ETH.1_1
+291,Ethiopia,2020-04-04,Addis Abeba,3,,ETH.1_1
+292,Ethiopia,2020-04-05,Addis Abeba,5,,ETH.1_1
+293,Ethiopia,2020-04-07,Addis Abeba,8,,ETH.1_1
+294,Ethiopia,2020-04-08,Addis Abeba,2,,ETH.1_1
+295,Ethiopia,2020-04-09,Addis Abeba,1,,ETH.1_1
+296,Ethiopia,2020-04-10,Addis Abeba,9,,ETH.1_1
+297,Ethiopia,2020-04-11,Addis Abeba,4,,ETH.1_1
+298,Ethiopia,2020-04-12,Addis Abeba,2,,ETH.1_1
+299,Ethiopia,2020-04-13,Addis Abeba,3,,ETH.1_1
+300,Ethiopia,2020-04-14,Addis Abeba,8,,ETH.1_1
+301,Ethiopia,2020-04-15,Addis Abeba,3,,ETH.1_1
+302,Ethiopia,2020-04-16,Addis Abeba,7,,ETH.1_1
+303,Ethiopia,2020-04-17,Addis Abeba,3,,ETH.1_1
+304,Ethiopia,2020-04-18,Addis Abeba,5,,ETH.1_1
+305,Ethiopia,2020-04-19,Addis Abeba,3,,ETH.1_1
+306,Ethiopia,2020-04-21,Addis Abeba,2,,ETH.1_1
+307,Ethiopia,2020-04-22,Addis Abeba,1,,ETH.1_1
+308,Ethiopia,2020-04-24,Addis Abeba,1,,ETH.1_1
+309,Ethiopia,2020-04-25,Addis Abeba,1,,ETH.1_1
+310,Ethiopia,2020-04-27,Addis Abeba,1,,ETH.1_1
+311,Ethiopia,2020-04-28,Addis Abeba,2,,ETH.1_1
+312,Ethiopia,2020-04-29,Addis Abeba,3,,ETH.1_1
+313,Ethiopia,2020-05-01,Addis Abeba,2,,ETH.1_1
+314,Ethiopia,2020-05-03,Addis Abeba,1,,ETH.1_1
+315,Ethiopia,2020-05-04,Addis Abeba,4,,ETH.1_1
+316,Ethiopia,2020-05-05,Addis Abeba,2,,ETH.1_1
+317,Ethiopia,2020-05-06,Addis Abeba,4,,ETH.1_1
+318,Ethiopia,2020-04-22,Afar,1,,ETH.2_1
+319,Ethiopia,2020-05-05,Afar,2,,ETH.2_1
+320,Ethiopia,2020-05-06,Afar,7,,ETH.2_1
+321,Ethiopia,2020-03-30,Amhara,2,,ETH.3_1
+322,Ethiopia,2020-04-08,Amhara,1,,ETH.3_1
+323,Ethiopia,2020-04-17,Amhara,1,,ETH.3_1
+324,Ethiopia,2020-04-30,Amhara,1,,ETH.3_1
+325,Ethiopia,2020-05-04,Amhara,1,,ETH.3_1
+326,Ethiopia,2020-03-31,Dire Dawa,1,,ETH.5_1
+327,Ethiopia,2020-04-03,Dire Dawa,1,,ETH.5_1
+328,Ethiopia,2020-04-18,Dire Dawa,3,,ETH.5_1
+329,Ethiopia,2020-04-20,Dire Dawa,3,,ETH.5_1
+330,Ethiopia,2020-03-27,Oromia,1,,ETH.8_1
+331,Ethiopia,2020-03-28,Oromia,2,,ETH.8_1
+332,Ethiopia,2020-04-06,Oromia,1,,ETH.8_1
+333,Ethiopia,2020-04-18,Oromia,1,,ETH.8_1
+334,Ethiopia,2020-04-21,Oromia,1,,ETH.8_1
+335,Ethiopia,2020-04-25,Oromia,4,,ETH.8_1
+336,Ethiopia,2020-04-29,Oromia,1,,ETH.8_1
+337,Ethiopia,2020-05-05,Oromia,1,,ETH.8_1
+338,Ethiopia,2020-05-03,Afar,1,,ETH.2_1
+339,Ethiopia,2020-04-26,Somali,1,,ETH.9_1
+340,Ethiopia,2020-05-06,Somali,6,,ETH.9_1
+341,Ghana,2020-03-19,Ashanti,2,,GHA.1_1
+342,Ghana,2020-03-20,Ashanti,1,,GHA.1_1
+343,Ghana,2020-03-29,Ashanti,1,,GHA.1_1
+344,Ghana,2020-03-12,Greater Accra,2,,GHA.5_1
+345,Ghana,2020-03-13,Greater Accra,2,,GHA.5_1
+346,Ghana,2020-03-14,Greater Accra,2,,GHA.5_1
+347,Ghana,2020-03-17,Greater Accra,1,,GHA.5_1
+348,Ghana,2020-03-18,Greater Accra,2,,GHA.5_1
+349,Ghana,2020-03-19,Greater Accra,5,,GHA.5_1
+350,Ghana,2020-03-20,Greater Accra,2,,GHA.5_1
+351,Ghana,2020-03-29,Northern,10,,GHA.6_1
+352,Ghana,2020-03-27,Upper West,1,,GHA.8_1
+353,Niger,2020-03-19,Niamey,1,,NER.5_1
+354,Niger,2020-03-21,Niamey,1,,NER.5_1
+355,Niger,2020-03-22,Niamey,1,,NER.5_1
+356,Niger,2020-03-24,Niamey,5,,NER.5_1
+357,Niger,2020-03-26,Niamey,2,,NER.5_1
+358,Niger,2020-03-28,Niamey,11,,NER.5_1
+359,Niger,2020-03-29,Niamey,1,,NER.5_1
+360,Niger,2020-03-30,Niamey,5,,NER.5_1
+361,Niger,2020-04-01,Niamey,45,,NER.5_1
+362,Senegal,2020-03-02,Dakar,1,,SEN.1_1
+363,Senegal,2020-03-03,Dakar,1,,SEN.1_1
+364,Senegal,2020-03-04,Dakar,2,,SEN.1_1
+365,Senegal,2020-03-14,Dakar,1,,SEN.1_1
+366,Senegal,2020-03-11,Diourbel,2,,SEN.2_1
+367,Senegal,2020-03-12,Diourbel,4,,SEN.2_1
+368,Senegal,2020-03-13,Diourbel,11,,SEN.2_1
+369,Senegal,2020-03-14,Diourbel,1,,SEN.2_1
+370,Senegal,2020-03-15,Diourbel,1,,SEN.2_1
+371,Senegal,2020-03-14,Thiès,1,,SEN.13_1
+372,South Africa,2020-03-05,Eastern Cape,0,,ZAF.1_1
+373,South Africa,2020-03-07,Eastern Cape,0,,ZAF.1_1
+374,South Africa,2020-03-08,Eastern Cape,0,,ZAF.1_1
+375,South Africa,2020-03-09,Eastern Cape,0,,ZAF.1_1
+376,South Africa,2020-03-11,Eastern Cape,0,,ZAF.1_1
+377,South Africa,2020-03-12,Eastern Cape,0,,ZAF.1_1
+378,South Africa,2020-03-13,Eastern Cape,0,,ZAF.1_1
+379,South Africa,2020-03-14,Eastern Cape,0,,ZAF.1_1
+380,South Africa,2020-03-15,Eastern Cape,0,,ZAF.1_1
+381,South Africa,2020-03-16,Eastern Cape,0,,ZAF.1_1
+382,South Africa,2020-03-17,Eastern Cape,0,,ZAF.1_1
+383,South Africa,2020-03-18,Eastern Cape,0,,ZAF.1_1
+384,South Africa,2020-03-19,Eastern Cape,0,,ZAF.1_1
+385,South Africa,2020-03-20,Eastern Cape,0,,ZAF.1_1
+386,South Africa,2020-03-21,Eastern Cape,1,,ZAF.1_1
+387,South Africa,2020-03-22,Eastern Cape,1,,ZAF.1_1
+388,South Africa,2020-03-23,Eastern Cape,0,,ZAF.1_1
+389,South Africa,2020-03-24,Eastern Cape,0,,ZAF.1_1
+390,South Africa,2020-03-25,Eastern Cape,0,,ZAF.1_1
+391,South Africa,2020-03-26,Eastern Cape,3,,ZAF.1_1
+392,South Africa,2020-03-28,Eastern Cape,5,,ZAF.1_1
+393,South Africa,2020-03-29,Eastern Cape,2,,ZAF.1_1
+394,South Africa,2020-03-30,Eastern Cape,0,,ZAF.1_1
+395,South Africa,2020-03-31,Eastern Cape,0,,ZAF.1_1
+396,South Africa,2020-04-01,Eastern Cape,3,,ZAF.1_1
+397,South Africa,2020-04-02,Eastern Cape,2,,ZAF.1_1
+398,South Africa,2020-04-03,Eastern Cape,4,,ZAF.1_1
+399,South Africa,2020-04-04,Eastern Cape,4,,ZAF.1_1
+400,South Africa,2020-04-05,Eastern Cape,6,,ZAF.1_1
+401,South Africa,2020-04-06,Eastern Cape,1,,ZAF.1_1
+402,South Africa,2020-04-08,Eastern Cape,13,,ZAF.1_1
+403,South Africa,2020-04-09,Eastern Cape,16,,ZAF.1_1
+404,South Africa,2020-04-10,Eastern Cape,7,,ZAF.1_1
+405,South Africa,2020-04-11,Eastern Cape,1,,ZAF.1_1
+406,South Africa,2020-04-12,Eastern Cape,19,,ZAF.1_1
+407,South Africa,2020-04-13,Eastern Cape,16,,ZAF.1_1
+408,South Africa,2020-04-14,Eastern Cape,70,,ZAF.1_1
+409,South Africa,2020-04-15,Eastern Cape,25,,ZAF.1_1
+410,South Africa,2020-04-16,Eastern Cape,21,,ZAF.1_1
+411,South Africa,2020-04-17,Eastern Cape,26,,ZAF.1_1
+412,South Africa,2020-04-18,Eastern Cape,24,,ZAF.1_1
+413,South Africa,2020-04-19,Eastern Cape,23,,ZAF.1_1
+414,South Africa,2020-04-20,Eastern Cape,17,,ZAF.1_1
+415,South Africa,2020-04-21,Eastern Cape,35,,ZAF.1_1
+416,South Africa,2020-04-22,Eastern Cape,32,,ZAF.1_1
+417,South Africa,2020-04-23,Eastern Cape,40,,ZAF.1_1
+418,South Africa,2020-04-24,Eastern Cape,63,,ZAF.1_1
+419,South Africa,2020-04-25,Eastern Cape,8,,ZAF.1_1
+420,South Africa,2020-04-26,Eastern Cape,47,,ZAF.1_1
+421,South Africa,2020-04-27,Eastern Cape,53,,ZAF.1_1
+422,South Africa,2020-04-28,Eastern Cape,28,,ZAF.1_1
+423,South Africa,2020-04-29,Eastern Cape,14,,ZAF.1_1
+424,South Africa,2020-04-30,Eastern Cape,17,,ZAF.1_1
+425,South Africa,2020-05-01,Eastern Cape,44,,ZAF.1_1
+426,South Africa,2020-05-02,Eastern Cape,41,,ZAF.1_1
+427,South Africa,2020-05-03,Eastern Cape,42,,ZAF.1_1
+428,South Africa,2020-05-04,Eastern Cape,40,,ZAF.1_1
+429,South Africa,2020-05-05,Eastern Cape,24,,ZAF.1_1
+430,South Africa,2020-05-06,Eastern Cape,11,,ZAF.1_1
+431,South Africa,2020-05-07,Eastern Cape,80,,ZAF.1_1
+432,South Africa,2020-05-08,Eastern Cape,60,,ZAF.1_1
+433,South Africa,2020-05-09,Eastern Cape,89,,ZAF.1_1
+434,South Africa,2020-05-10,Eastern Cape,140,,ZAF.1_1
+435,South Africa,2020-05-11,Eastern Cape,138,,ZAF.1_1
+436,South Africa,2020-05-12,Eastern Cape,148,,ZAF.1_1
+437,South Africa,2020-05-13,Eastern Cape,30,,ZAF.1_1
+438,South Africa,2020-05-14,Eastern Cape,35,,ZAF.1_1
+439,South Africa,2020-05-15,Eastern Cape,93,,ZAF.1_1
+440,South Africa,2020-05-16,Eastern Cape,150,,ZAF.1_1
+441,South Africa,2020-05-17,Eastern Cape,124,,ZAF.1_1
+442,South Africa,2020-05-18,Eastern Cape,116,,ZAF.1_1
+443,South Africa,2020-05-19,Eastern Cape,83,,ZAF.1_1
+444,South Africa,2020-05-20,Eastern Cape,80,,ZAF.1_1
+445,South Africa,2020-05-21,Eastern Cape,109,,ZAF.1_1
+446,South Africa,2020-05-22,Eastern Cape,135,,ZAF.1_1
+447,South Africa,2020-05-23,Eastern Cape,110,,ZAF.1_1
+448,South Africa,2020-05-24,Eastern Cape,121,,ZAF.1_1
+449,South Africa,2020-05-25,Eastern Cape,58,,ZAF.1_1
+450,South Africa,2020-05-26,Eastern Cape,116,,ZAF.1_1
+451,South Africa,2020-05-27,Eastern Cape,183,,ZAF.1_1
+452,South Africa,2020-05-28,Eastern Cape,259,,ZAF.1_1
+453,South Africa,2020-05-29,Eastern Cape,277,,ZAF.1_1
+454,South Africa,2020-05-30,Eastern Cape,176,,ZAF.1_1
+455,South Africa,2020-05-31,Eastern Cape,168,,ZAF.1_1
+456,South Africa,2020-06-01,Eastern Cape,184,,ZAF.1_1
+457,South Africa,2020-06-02,Eastern Cape,213,,ZAF.1_1
+458,South Africa,2020-06-03,Eastern Cape,202,,ZAF.1_1
+459,South Africa,2020-06-04,Eastern Cape,410,,ZAF.1_1
+460,South Africa,2020-06-05,Eastern Cape,304,,ZAF.1_1
+461,South Africa,2020-06-06,Eastern Cape,389,,ZAF.1_1
+462,South Africa,2020-06-07,Eastern Cape,345,,ZAF.1_1
+463,South Africa,2020-06-08,Eastern Cape,367,,ZAF.1_1
+464,South Africa,2020-06-09,Eastern Cape,419,,ZAF.1_1
+465,South Africa,2020-06-10,Eastern Cape,394,,ZAF.1_1
+466,South Africa,2020-06-11,Eastern Cape,714,,ZAF.1_1
+467,South Africa,2020-06-12,Eastern Cape,747,,ZAF.1_1
+468,South Africa,2020-06-13,Eastern Cape,635,,ZAF.1_1
+469,South Africa,2020-06-14,Eastern Cape,777,,ZAF.1_1
+470,South Africa,2020-06-15,Eastern Cape,570,,ZAF.1_1
+471,South Africa,2020-06-16,Eastern Cape,442,,ZAF.1_1
+472,South Africa,2020-06-17,Eastern Cape,880,,ZAF.1_1
+473,South Africa,2020-06-18,Eastern Cape,720,,ZAF.1_1
+474,South Africa,2020-06-19,Eastern Cape,867,,ZAF.1_1
+475,South Africa,2020-06-20,Eastern Cape,1215,,ZAF.1_1
+476,South Africa,2020-06-21,Eastern Cape,1030,,ZAF.1_1
+477,South Africa,2020-06-22,Eastern Cape,1144,,ZAF.1_1
+478,South Africa,2020-06-23,Eastern Cape,1213,,ZAF.1_1
+479,South Africa,2020-06-24,Eastern Cape,1106,,ZAF.1_1
+480,South Africa,2020-06-25,Eastern Cape,1273,,ZAF.1_1
+481,South Africa,2020-06-26,Eastern Cape,1451,,ZAF.1_1
+482,South Africa,2020-06-27,Eastern Cape,1720,,ZAF.1_1
+483,South Africa,2020-06-28,Eastern Cape,1441,,ZAF.1_1
+484,South Africa,2020-06-29,Eastern Cape,1096,,ZAF.1_1
+485,South Africa,2020-06-30,Eastern Cape,1491,,ZAF.1_1
+486,South Africa,2020-07-01,Eastern Cape,1654,,ZAF.1_1
+487,South Africa,2020-07-02,Eastern Cape,1263,,ZAF.1_1
+488,South Africa,2020-07-03,Eastern Cape,1554,,ZAF.1_1
+489,South Africa,2020-07-04,Eastern Cape,2004,,ZAF.1_1
+490,South Africa,2020-07-05,Eastern Cape,1487,,ZAF.1_1
+491,South Africa,2020-07-06,Eastern Cape,2433,,ZAF.1_1
+492,South Africa,2020-07-07,Eastern Cape,2320,,ZAF.1_1
+493,South Africa,2020-07-08,Eastern Cape,1956,,ZAF.1_1
+494,South Africa,2020-07-09,Eastern Cape,2075,,ZAF.1_1
+495,South Africa,2020-07-10,Eastern Cape,1852,,ZAF.1_1
+496,South Africa,2020-07-11,Eastern Cape,1948,,ZAF.1_1
+497,South Africa,2020-07-12,Eastern Cape,2068,,ZAF.1_1
+498,South Africa,2020-07-13,Eastern Cape,1758,,ZAF.1_1
+499,South Africa,2020-07-14,Eastern Cape,1901,,ZAF.1_1
+500,South Africa,2020-07-15,Eastern Cape,1625,,ZAF.1_1
+501,South Africa,2020-07-16,Eastern Cape,1602,,ZAF.1_1
+502,South Africa,2020-07-17,Eastern Cape,1674,,ZAF.1_1
+503,South Africa,2020-07-18,Eastern Cape,2116,,ZAF.1_1
+504,South Africa,2020-07-19,Eastern Cape,2205,,ZAF.1_1
+505,South Africa,2020-07-20,Eastern Cape,2135,,ZAF.1_1
+506,South Africa,2020-07-21,Eastern Cape,1443,,ZAF.1_1
+507,South Africa,2020-07-22,Eastern Cape,1059,,ZAF.1_1
+508,South Africa,2020-07-23,Eastern Cape,1627,,ZAF.1_1
+509,South Africa,2020-07-24,Eastern Cape,1893,,ZAF.1_1
+510,South Africa,2020-07-25,Eastern Cape,1434,,ZAF.1_1
+511,South Africa,2020-07-26,Eastern Cape,813,,ZAF.1_1
+512,South Africa,2020-07-27,Eastern Cape,646,,ZAF.1_1
+513,South Africa,2020-07-28,Eastern Cape,836,,ZAF.1_1
+514,South Africa,2020-07-29,Eastern Cape,805,,ZAF.1_1
+515,South Africa,2020-07-30,Eastern Cape,1183,,ZAF.1_1
+516,South Africa,2020-07-31,Eastern Cape,883,,ZAF.1_1
+517,South Africa,2020-08-01,Eastern Cape,844,,ZAF.1_1
+518,South Africa,2020-08-02,Eastern Cape,628,,ZAF.1_1
+519,South Africa,2020-08-03,Eastern Cape,264,,ZAF.1_1
+520,South Africa,2020-08-04,Eastern Cape,170,,ZAF.1_1
+521,South Africa,2020-08-05,Eastern Cape,556,,ZAF.1_1
+522,South Africa,2020-08-06,Eastern Cape,614,,ZAF.1_1
+523,South Africa,2020-08-07,Eastern Cape,601,,ZAF.1_1
+524,South Africa,2020-08-08,Eastern Cape,459,,ZAF.1_1
+525,South Africa,2020-08-09,Eastern Cape,327,,ZAF.1_1
+526,South Africa,2020-08-10,Eastern Cape,186,,ZAF.1_1
+527,South Africa,2020-08-11,Eastern Cape,128,,ZAF.1_1
+528,South Africa,2020-08-12,Eastern Cape,64,,ZAF.1_1
+529,South Africa,2020-08-13,Eastern Cape,223,,ZAF.1_1
+530,South Africa,2020-08-14,Eastern Cape,370,,ZAF.1_1
+531,South Africa,2020-08-15,Eastern Cape,299,,ZAF.1_1
+532,South Africa,2020-08-16,Eastern Cape,335,,ZAF.1_1
+533,South Africa,2020-08-17,Eastern Cape,86,,ZAF.1_1
+534,South Africa,2020-08-18,Eastern Cape,52,,ZAF.1_1
+535,South Africa,2020-08-19,Eastern Cape,218,,ZAF.1_1
+536,South Africa,2020-08-20,Eastern Cape,224,,ZAF.1_1
+537,South Africa,2020-08-21,Eastern Cape,201,,ZAF.1_1
+538,South Africa,2020-08-22,Eastern Cape,252,,ZAF.1_1
+539,South Africa,2020-08-23,Eastern Cape,164,,ZAF.1_1
+540,South Africa,2020-08-24,Eastern Cape,37,,ZAF.1_1
+541,South Africa,2020-08-25,Eastern Cape,71,,ZAF.1_1
+542,South Africa,2020-08-26,Eastern Cape,161,,ZAF.1_1
+543,South Africa,2020-08-27,Eastern Cape,153,,ZAF.1_1
+544,South Africa,2020-08-28,Eastern Cape,76,,ZAF.1_1
+545,South Africa,2020-08-29,Eastern Cape,198,,ZAF.1_1
+546,South Africa,2020-08-30,Eastern Cape,161,,ZAF.1_1
+547,South Africa,2020-08-31,Eastern Cape,103,,ZAF.1_1
+548,South Africa,2020-09-01,Eastern Cape,54,,ZAF.1_1
+549,South Africa,2020-09-02,Eastern Cape,105,,ZAF.1_1
+550,South Africa,2020-09-03,Eastern Cape,167,,ZAF.1_1
+551,South Africa,2020-09-04,Eastern Cape,146,,ZAF.1_1
+552,South Africa,2020-09-05,Eastern Cape,120,,ZAF.1_1
+553,South Africa,2020-09-06,Eastern Cape,94,,ZAF.1_1
+554,South Africa,2020-09-07,Eastern Cape,19,,ZAF.1_1
+555,South Africa,2020-09-08,Eastern Cape,58,,ZAF.1_1
+556,South Africa,2020-09-09,Eastern Cape,114,,ZAF.1_1
+557,South Africa,2020-09-10,Eastern Cape,88,,ZAF.1_1
+558,South Africa,2020-09-11,Eastern Cape,94,,ZAF.1_1
+559,South Africa,2020-09-12,Eastern Cape,101,,ZAF.1_1
+560,South Africa,2020-09-13,Eastern Cape,92,,ZAF.1_1
+561,South Africa,2020-09-14,Eastern Cape,41,,ZAF.1_1
+562,South Africa,2020-09-15,Eastern Cape,57,,ZAF.1_1
+563,South Africa,2020-09-16,Eastern Cape,150,,ZAF.1_1
+564,South Africa,2020-09-17,Eastern Cape,113,,ZAF.1_1
+565,South Africa,2020-09-18,Eastern Cape,118,,ZAF.1_1
+566,South Africa,2020-09-19,Eastern Cape,140,,ZAF.1_1
+567,South Africa,2020-09-20,Eastern Cape,130,,ZAF.1_1
+568,South Africa,2020-09-21,Eastern Cape,41,,ZAF.1_1
+569,South Africa,2020-09-22,Eastern Cape,114,,ZAF.1_1
+570,South Africa,2020-09-23,Eastern Cape,101,,ZAF.1_1
+571,South Africa,2020-09-24,Eastern Cape,149,,ZAF.1_1
+572,South Africa,2020-09-25,Eastern Cape,111,,ZAF.1_1
+573,South Africa,2020-09-26,Eastern Cape,96,,ZAF.1_1
+574,South Africa,2020-09-27,Eastern Cape,116,,ZAF.1_1
+575,South Africa,2020-09-28,Eastern Cape,83,,ZAF.1_1
+576,South Africa,2020-09-29,Eastern Cape,101,,ZAF.1_1
+577,South Africa,2020-09-30,Eastern Cape,128,,ZAF.1_1
+578,South Africa,2020-03-05,Free State,0,,ZAF.2_1
+579,South Africa,2020-03-07,Free State,0,,ZAF.2_1
+580,South Africa,2020-03-08,Free State,0,,ZAF.2_1
+581,South Africa,2020-03-09,Free State,0,,ZAF.2_1
+582,South Africa,2020-03-11,Free State,0,,ZAF.2_1
+583,South Africa,2020-03-12,Free State,0,,ZAF.2_1
+584,South Africa,2020-03-13,Free State,0,,ZAF.2_1
+585,South Africa,2020-03-14,Free State,0,,ZAF.2_1
+586,South Africa,2020-03-15,Free State,0,,ZAF.2_1
+587,South Africa,2020-03-16,Free State,0,,ZAF.2_1
+588,South Africa,2020-03-17,Free State,0,,ZAF.2_1
+589,South Africa,2020-03-18,Free State,0,,ZAF.2_1
+590,South Africa,2020-03-19,Free State,0,,ZAF.2_1
+591,South Africa,2020-03-20,Free State,7,,ZAF.2_1
+592,South Africa,2020-03-21,Free State,0,,ZAF.2_1
+593,South Africa,2020-03-22,Free State,2,,ZAF.2_1
+594,South Africa,2020-03-23,Free State,4,,ZAF.2_1
+595,South Africa,2020-03-24,Free State,5,,ZAF.2_1
+596,South Africa,2020-03-25,Free State,12,,ZAF.2_1
+597,South Africa,2020-03-26,Free State,19,,ZAF.2_1
+598,South Africa,2020-03-28,Free State,19,,ZAF.2_1
+599,South Africa,2020-03-29,Free State,4,,ZAF.2_1
+600,South Africa,2020-03-30,Free State,0,,ZAF.2_1
+601,South Africa,2020-03-31,Free State,2,,ZAF.2_1
+602,South Africa,2020-04-01,Free State,2,,ZAF.2_1
+603,South Africa,2020-04-02,Free State,8,,ZAF.2_1
+604,South Africa,2020-04-03,Free State,0,,ZAF.2_1
+605,South Africa,2020-04-04,Free State,1,,ZAF.2_1
+606,South Africa,2020-04-05,Free State,2,,ZAF.2_1
+607,South Africa,2020-04-06,Free State,2,,ZAF.2_1
+608,South Africa,2020-04-08,Free State,-1,,ZAF.2_1
+609,South Africa,2020-04-09,Free State,5,,ZAF.2_1
+610,South Africa,2020-04-10,Free State,1,,ZAF.2_1
+611,South Africa,2020-04-11,Free State,0,,ZAF.2_1
+612,South Africa,2020-04-12,Free State,2,,ZAF.2_1
+613,South Africa,2020-04-13,Free State,0,,ZAF.2_1
+614,South Africa,2020-04-14,Free State,2,,ZAF.2_1
+615,South Africa,2020-04-15,Free State,-1,,ZAF.2_1
+616,South Africa,2020-04-16,Free State,1,,ZAF.2_1
+617,South Africa,2020-04-17,Free State,2,,ZAF.2_1
+618,South Africa,2020-04-18,Free State,0,,ZAF.2_1
+619,South Africa,2020-04-19,Free State,0,,ZAF.2_1
+620,South Africa,2020-04-20,Free State,5,,ZAF.2_1
+621,South Africa,2020-04-21,Free State,1,,ZAF.2_1
+622,South Africa,2020-04-22,Free State,0,,ZAF.2_1
+623,South Africa,2020-04-23,Free State,0,,ZAF.2_1
+624,South Africa,2020-04-24,Free State,5,,ZAF.2_1
+625,South Africa,2020-04-25,Free State,0,,ZAF.2_1
+626,South Africa,2020-04-26,Free State,-1,,ZAF.2_1
+627,South Africa,2020-04-27,Free State,1,,ZAF.2_1
+628,South Africa,2020-04-28,Free State,2,,ZAF.2_1
+629,South Africa,2020-04-29,Free State,0,,ZAF.2_1
+630,South Africa,2020-04-30,Free State,3,,ZAF.2_1
+631,South Africa,2020-05-01,Free State,2,,ZAF.2_1
+632,South Africa,2020-05-02,Free State,3,,ZAF.2_1
+633,South Africa,2020-05-03,Free State,1,,ZAF.2_1
+634,South Africa,2020-05-04,Free State,3,,ZAF.2_1
+635,South Africa,2020-05-05,Free State,3,,ZAF.2_1
+636,South Africa,2020-05-06,Free State,2,,ZAF.2_1
+637,South Africa,2020-05-07,Free State,4,,ZAF.2_1
+638,South Africa,2020-05-08,Free State,-1,,ZAF.2_1
+639,South Africa,2020-05-09,Free State,1,,ZAF.2_1
+640,South Africa,2020-05-10,Free State,1,,ZAF.2_1
+641,South Africa,2020-05-11,Free State,0,,ZAF.2_1
+642,South Africa,2020-05-12,Free State,0,,ZAF.2_1
+643,South Africa,2020-05-13,Free State,3,,ZAF.2_1
+644,South Africa,2020-05-14,Free State,7,,ZAF.2_1
+645,South Africa,2020-05-15,Free State,6,,ZAF.2_1
+646,South Africa,2020-05-16,Free State,2,,ZAF.2_1
+647,South Africa,2020-05-17,Free State,5,,ZAF.2_1
+648,South Africa,2020-05-18,Free State,5,,ZAF.2_1
+649,South Africa,2020-05-19,Free State,5,,ZAF.2_1
+650,South Africa,2020-05-20,Free State,12,,ZAF.2_1
+651,South Africa,2020-05-21,Free State,4,,ZAF.2_1
+652,South Africa,2020-05-22,Free State,1,,ZAF.2_1
+653,South Africa,2020-05-23,Free State,11,,ZAF.2_1
+654,South Africa,2020-05-24,Free State,6,,ZAF.2_1
+655,South Africa,2020-05-25,Free State,6,,ZAF.2_1
+656,South Africa,2020-05-26,Free State,-2,,ZAF.2_1
+657,South Africa,2020-05-27,Free State,15,,ZAF.2_1
+658,South Africa,2020-05-28,Free State,4,,ZAF.2_1
+659,South Africa,2020-05-29,Free State,6,,ZAF.2_1
+660,South Africa,2020-05-30,Free State,30,,ZAF.2_1
+661,South Africa,2020-05-31,Free State,17,,ZAF.2_1
+662,South Africa,2020-06-01,Free State,7,,ZAF.2_1
+663,South Africa,2020-06-02,Free State,14,,ZAF.2_1
+664,South Africa,2020-06-03,Free State,20,,ZAF.2_1
+665,South Africa,2020-06-04,Free State,3,,ZAF.2_1
+666,South Africa,2020-06-05,Free State,14,,ZAF.2_1
+667,South Africa,2020-06-06,Free State,12,,ZAF.2_1
+668,South Africa,2020-06-07,Free State,13,,ZAF.2_1
+669,South Africa,2020-06-08,Free State,12,,ZAF.2_1
+670,South Africa,2020-06-09,Free State,18,,ZAF.2_1
+671,South Africa,2020-06-10,Free State,10,,ZAF.2_1
+672,South Africa,2020-06-11,Free State,5,,ZAF.2_1
+673,South Africa,2020-06-12,Free State,29,,ZAF.2_1
+674,South Africa,2020-06-13,Free State,22,,ZAF.2_1
+675,South Africa,2020-06-14,Free State,38,,ZAF.2_1
+676,South Africa,2020-06-15,Free State,17,,ZAF.2_1
+677,South Africa,2020-06-16,Free State,66,,ZAF.2_1
+678,South Africa,2020-06-17,Free State,30,,ZAF.2_1
+679,South Africa,2020-06-18,Free State,41,,ZAF.2_1
+680,South Africa,2020-06-19,Free State,9,,ZAF.2_1
+681,South Africa,2020-06-20,Free State,42,,ZAF.2_1
+682,South Africa,2020-06-21,Free State,33,,ZAF.2_1
+683,South Africa,2020-06-22,Free State,39,,ZAF.2_1
+684,South Africa,2020-06-23,Free State,42,,ZAF.2_1
+685,South Africa,2020-06-24,Free State,75,,ZAF.2_1
+686,South Africa,2020-06-25,Free State,87,,ZAF.2_1
+687,South Africa,2020-06-26,Free State,93,,ZAF.2_1
+688,South Africa,2020-06-27,Free State,91,,ZAF.2_1
+689,South Africa,2020-06-28,Free State,119,,ZAF.2_1
+690,South Africa,2020-06-29,Free State,98,,ZAF.2_1
+691,South Africa,2020-06-30,Free State,137,,ZAF.2_1
+692,South Africa,2020-07-01,Free State,158,,ZAF.2_1
+693,South Africa,2020-07-02,Free State,214,,ZAF.2_1
+694,South Africa,2020-07-03,Free State,244,,ZAF.2_1
+695,South Africa,2020-07-04,Free State,246,,ZAF.2_1
+696,South Africa,2020-07-05,Free State,177,,ZAF.2_1
+697,South Africa,2020-07-06,Free State,251,,ZAF.2_1
+698,South Africa,2020-07-07,Free State,230,,ZAF.2_1
+699,South Africa,2020-07-08,Free State,225,,ZAF.2_1
+700,South Africa,2020-07-09,Free State,465,,ZAF.2_1
+701,South Africa,2020-07-10,Free State,497,,ZAF.2_1
+702,South Africa,2020-07-11,Free State,458,,ZAF.2_1
+703,South Africa,2020-07-12,Free State,545,,ZAF.2_1
+704,South Africa,2020-07-13,Free State,408,,ZAF.2_1
+705,South Africa,2020-07-14,Free State,341,,ZAF.2_1
+706,South Africa,2020-07-15,Free State,588,,ZAF.2_1
+707,South Africa,2020-07-16,Free State,751,,ZAF.2_1
+708,South Africa,2020-07-17,Free State,978,,ZAF.2_1
+709,South Africa,2020-07-18,Free State,714,,ZAF.2_1
+710,South Africa,2020-07-19,Free State,989,,ZAF.2_1
+711,South Africa,2020-07-20,Free State,734,,ZAF.2_1
+712,South Africa,2020-07-21,Free State,625,,ZAF.2_1
+713,South Africa,2020-07-22,Free State,980,,ZAF.2_1
+714,South Africa,2020-07-23,Free State,1111,,ZAF.2_1
+715,South Africa,2020-07-24,Free State,1099,,ZAF.2_1
+716,South Africa,2020-07-25,Free State,970,,ZAF.2_1
+717,South Africa,2020-07-26,Free State,970,,ZAF.2_1
+718,South Africa,2020-07-27,Free State,740,,ZAF.2_1
+719,South Africa,2020-07-28,Free State,912,,ZAF.2_1
+720,South Africa,2020-07-29,Free State,1073,,ZAF.2_1
+721,South Africa,2020-07-30,Free State,1191,,ZAF.2_1
+722,South Africa,2020-07-31,Free State,864,,ZAF.2_1
+723,South Africa,2020-08-01,Free State,1046,,ZAF.2_1
+724,South Africa,2020-08-02,Free State,791,,ZAF.2_1
+725,South Africa,2020-08-03,Free State,606,,ZAF.2_1
+726,South Africa,2020-08-04,Free State,628,,ZAF.2_1
+727,South Africa,2020-08-05,Free State,899,,ZAF.2_1
+728,South Africa,2020-08-06,Free State,891,,ZAF.2_1
+729,South Africa,2020-08-07,Free State,754,,ZAF.2_1
+730,South Africa,2020-08-08,Free State,865,,ZAF.2_1
+731,South Africa,2020-08-09,Free State,628,,ZAF.2_1
+732,South Africa,2020-08-10,Free State,539,,ZAF.2_1
+733,South Africa,2020-08-11,Free State,300,,ZAF.2_1
+734,South Africa,2020-08-12,Free State,369,,ZAF.2_1
+735,South Africa,2020-08-13,Free State,471,,ZAF.2_1
+736,South Africa,2020-08-14,Free State,788,,ZAF.2_1
+737,South Africa,2020-08-15,Free State,628,,ZAF.2_1
+738,South Africa,2020-08-16,Free State,405,,ZAF.2_1
+739,South Africa,2020-08-17,Free State,434,,ZAF.2_1
+740,South Africa,2020-08-18,Free State,289,,ZAF.2_1
+741,South Africa,2020-08-19,Free State,570,,ZAF.2_1
+742,South Africa,2020-08-20,Free State,502,,ZAF.2_1
+743,South Africa,2020-08-21,Free State,471,,ZAF.2_1
+744,South Africa,2020-08-22,Free State,485,,ZAF.2_1
+745,South Africa,2020-08-23,Free State,359,,ZAF.2_1
+746,South Africa,2020-08-24,Free State,387,,ZAF.2_1
+747,South Africa,2020-08-25,Free State,236,,ZAF.2_1
+748,South Africa,2020-08-26,Free State,377,,ZAF.2_1
+749,South Africa,2020-08-27,Free State,439,,ZAF.2_1
+750,South Africa,2020-08-28,Free State,323,,ZAF.2_1
+751,South Africa,2020-08-29,Free State,415,,ZAF.2_1
+752,South Africa,2020-08-30,Free State,400,,ZAF.2_1
+753,South Africa,2020-08-31,Free State,331,,ZAF.2_1
+754,South Africa,2020-09-01,Free State,237,,ZAF.2_1
+755,South Africa,2020-09-02,Free State,348,,ZAF.2_1
+756,South Africa,2020-09-03,Free State,396,,ZAF.2_1
+757,South Africa,2020-09-04,Free State,323,,ZAF.2_1
+758,South Africa,2020-09-05,Free State,294,,ZAF.2_1
+759,South Africa,2020-09-06,Free State,295,,ZAF.2_1
+760,South Africa,2020-09-07,Free State,205,,ZAF.2_1
+761,South Africa,2020-09-08,Free State,168,,ZAF.2_1
+762,South Africa,2020-09-09,Free State,302,,ZAF.2_1
+763,South Africa,2020-09-10,Free State,376,,ZAF.2_1
+764,South Africa,2020-09-11,Free State,418,,ZAF.2_1
+765,South Africa,2020-09-12,Free State,354,,ZAF.2_1
+766,South Africa,2020-09-13,Free State,271,,ZAF.2_1
+767,South Africa,2020-09-14,Free State,245,,ZAF.2_1
+768,South Africa,2020-09-15,Free State,135,,ZAF.2_1
+769,South Africa,2020-09-16,Free State,347,,ZAF.2_1
+770,South Africa,2020-09-17,Free State,439,,ZAF.2_1
+771,South Africa,2020-09-18,Free State,334,,ZAF.2_1
+772,South Africa,2020-09-19,Free State,401,,ZAF.2_1
+773,South Africa,2020-09-20,Free State,261,,ZAF.2_1
+774,South Africa,2020-09-21,Free State,254,,ZAF.2_1
+775,South Africa,2020-09-22,Free State,325,,ZAF.2_1
+776,South Africa,2020-09-23,Free State,327,,ZAF.2_1
+777,South Africa,2020-09-24,Free State,410,,ZAF.2_1
+778,South Africa,2020-09-25,Free State,325,,ZAF.2_1
+779,South Africa,2020-09-26,Free State,199,,ZAF.2_1
+780,South Africa,2020-09-27,Free State,251,,ZAF.2_1
+781,South Africa,2020-09-28,Free State,221,,ZAF.2_1
+782,South Africa,2020-09-29,Free State,209,,ZAF.2_1
+783,South Africa,2020-09-30,Free State,389,,ZAF.2_1
+784,South Africa,2020-03-05,Gauteng,0,,ZAF.3_1
+785,South Africa,2020-03-07,Gauteng,1,,ZAF.3_1
+786,South Africa,2020-03-08,Gauteng,0,,ZAF.3_1
+787,South Africa,2020-03-09,Gauteng,0,,ZAF.3_1
+788,South Africa,2020-03-11,Gauteng,4,,ZAF.3_1
+789,South Africa,2020-03-12,Gauteng,1,,ZAF.3_1
+790,South Africa,2020-03-13,Gauteng,4,,ZAF.3_1
+791,South Africa,2020-03-14,Gauteng,7,,ZAF.3_1
+792,South Africa,2020-03-15,Gauteng,7,,ZAF.3_1
+793,South Africa,2020-03-16,Gauteng,7,,ZAF.3_1
+794,South Africa,2020-03-17,Gauteng,14,,ZAF.3_1
+795,South Africa,2020-03-18,Gauteng,16,,ZAF.3_1
+796,South Africa,2020-03-19,Gauteng,15,,ZAF.3_1
+797,South Africa,2020-03-20,Gauteng,33,,ZAF.3_1
+798,South Africa,2020-03-21,Gauteng,16,,ZAF.3_1
+799,South Africa,2020-03-22,Gauteng,7,,ZAF.3_1
+800,South Africa,2020-03-23,Gauteng,75,,ZAF.3_1
+801,South Africa,2020-03-24,Gauteng,95,,ZAF.3_1
+802,South Africa,2020-03-25,Gauteng,17,,ZAF.3_1
+803,South Africa,2020-03-26,Gauteng,90,,ZAF.3_1
+804,South Africa,2020-03-28,Gauteng,124,,ZAF.3_1
+805,South Africa,2020-03-29,Gauteng,51,,ZAF.3_1
+806,South Africa,2020-03-30,Gauteng,34,,ZAF.3_1
+807,South Africa,2020-03-31,Gauteng,15,,ZAF.3_1
+808,South Africa,2020-04-01,Gauteng,12,,ZAF.3_1
+809,South Africa,2020-04-02,Gauteng,18,,ZAF.3_1
+810,South Africa,2020-04-03,Gauteng,9,,ZAF.3_1
+811,South Africa,2020-04-04,Gauteng,21,,ZAF.3_1
+812,South Africa,2020-04-05,Gauteng,11,,ZAF.3_1
+813,South Africa,2020-04-06,Gauteng,9,,ZAF.3_1
+814,South Africa,2020-04-08,Gauteng,69,,ZAF.3_1
+815,South Africa,2020-04-09,Gauteng,13,,ZAF.3_1
+816,South Africa,2020-04-10,Gauteng,6,,ZAF.3_1
+817,South Africa,2020-04-11,Gauteng,12,,ZAF.3_1
+818,South Africa,2020-04-12,Gauteng,52,,ZAF.3_1
+819,South Africa,2020-04-13,Gauteng,25,,ZAF.3_1
+820,South Africa,2020-04-14,Gauteng,19,,ZAF.3_1
+821,South Africa,2020-04-15,Gauteng,21,,ZAF.3_1
+822,South Africa,2020-04-16,Gauteng,39,,ZAF.3_1
+823,South Africa,2020-04-17,Gauteng,49,,ZAF.3_1
+824,South Africa,2020-04-18,Gauteng,83,,ZAF.3_1
+825,South Africa,2020-04-19,Gauteng,47,,ZAF.3_1
+826,South Africa,2020-04-20,Gauteng,22,,ZAF.3_1
+827,South Africa,2020-04-21,Gauteng,29,,ZAF.3_1
+828,South Africa,2020-04-22,Gauteng,25,,ZAF.3_1
+829,South Africa,2020-04-23,Gauteng,28,,ZAF.3_1
+830,South Africa,2020-04-24,Gauteng,29,,ZAF.3_1
+831,South Africa,2020-04-25,Gauteng,23,,ZAF.3_1
+832,South Africa,2020-04-26,Gauteng,27,,ZAF.3_1
+833,South Africa,2020-04-27,Gauteng,22,,ZAF.3_1
+834,South Africa,2020-04-28,Gauteng,24,,ZAF.3_1
+835,South Africa,2020-04-29,Gauteng,31,,ZAF.3_1
+836,South Africa,2020-04-30,Gauteng,38,,ZAF.3_1
+837,South Africa,2020-05-01,Gauteng,61,,ZAF.3_1
+838,South Africa,2020-05-02,Gauteng,91,,ZAF.3_1
+839,South Africa,2020-05-03,Gauteng,26,,ZAF.3_1
+840,South Africa,2020-05-04,Gauteng,27,,ZAF.3_1
+841,South Africa,2020-05-05,Gauteng,46,,ZAF.3_1
+842,South Africa,2020-05-06,Gauteng,23,,ZAF.3_1
+843,South Africa,2020-05-07,Gauteng,84,,ZAF.3_1
+844,South Africa,2020-05-08,Gauteng,47,,ZAF.3_1
+845,South Africa,2020-05-09,Gauteng,59,,ZAF.3_1
+846,South Africa,2020-05-10,Gauteng,42,,ZAF.3_1
+847,South Africa,2020-05-11,Gauteng,19,,ZAF.3_1
+848,South Africa,2020-05-12,Gauteng,43,,ZAF.3_1
+849,South Africa,2020-05-13,Gauteng,60,,ZAF.3_1
+850,South Africa,2020-05-14,Gauteng,61,,ZAF.3_1
+851,South Africa,2020-05-15,Gauteng,75,,ZAF.3_1
+852,South Africa,2020-05-16,Gauteng,52,,ZAF.3_1
+853,South Africa,2020-05-17,Gauteng,67,,ZAF.3_1
+854,South Africa,2020-05-18,Gauteng,14,,ZAF.3_1
+855,South Africa,2020-05-19,Gauteng,18,,ZAF.3_1
+856,South Africa,2020-05-20,Gauteng,39,,ZAF.3_1
+857,South Africa,2020-05-21,Gauteng,53,,ZAF.3_1
+858,South Africa,2020-05-22,Gauteng,68,,ZAF.3_1
+859,South Africa,2020-05-23,Gauteng,112,,ZAF.3_1
+860,South Africa,2020-05-24,Gauteng,140,,ZAF.3_1
+861,South Africa,2020-05-25,Gauteng,220,,ZAF.3_1
+862,South Africa,2020-05-26,Gauteng,50,,ZAF.3_1
+863,South Africa,2020-05-27,Gauteng,124,,ZAF.3_1
+864,South Africa,2020-05-28,Gauteng,162,,ZAF.3_1
+865,South Africa,2020-05-29,Gauteng,254,,ZAF.3_1
+866,South Africa,2020-05-30,Gauteng,190,,ZAF.3_1
+867,South Africa,2020-05-31,Gauteng,230,,ZAF.3_1
+868,South Africa,2020-06-01,Gauteng,228,,ZAF.3_1
+869,South Africa,2020-06-02,Gauteng,45,,ZAF.3_1
+870,South Africa,2020-06-03,Gauteng,291,,ZAF.3_1
+871,South Africa,2020-06-04,Gauteng,278,,ZAF.3_1
+872,South Africa,2020-06-05,Gauteng,370,,ZAF.3_1
+873,South Africa,2020-06-06,Gauteng,411,,ZAF.3_1
+874,South Africa,2020-06-07,Gauteng,320,,ZAF.3_1
+875,South Africa,2020-06-08,Gauteng,312,,ZAF.3_1
+876,South Africa,2020-06-09,Gauteng,288,,ZAF.3_1
+877,South Africa,2020-06-10,Gauteng,649,,ZAF.3_1
+878,South Africa,2020-06-11,Gauteng,758,,ZAF.3_1
+879,South Africa,2020-06-12,Gauteng,828,,ZAF.3_1
+880,South Africa,2020-06-13,Gauteng,1116,,ZAF.3_1
+881,South Africa,2020-06-14,Gauteng,1267,,ZAF.3_1
+882,South Africa,2020-06-15,Gauteng,1029,,ZAF.3_1
+883,South Africa,2020-06-16,Gauteng,830,,ZAF.3_1
+884,South Africa,2020-06-17,Gauteng,1597,,ZAF.3_1
+885,South Africa,2020-06-18,Gauteng,1278,,ZAF.3_1
+886,South Africa,2020-06-19,Gauteng,1363,,ZAF.3_1
+887,South Africa,2020-06-20,Gauteng,1717,,ZAF.3_1
+888,South Africa,2020-06-21,Gauteng,1844,,ZAF.3_1
+889,South Africa,2020-06-22,Gauteng,1519,,ZAF.3_1
+890,South Africa,2020-06-23,Gauteng,1700,,ZAF.3_1
+891,South Africa,2020-06-24,Gauteng,2115,,ZAF.3_1
+892,South Africa,2020-06-25,Gauteng,2590,,ZAF.3_1
+893,South Africa,2020-06-26,Gauteng,2598,,ZAF.3_1
+894,South Africa,2020-06-27,Gauteng,2941,,ZAF.3_1
+895,South Africa,2020-06-28,Gauteng,2610,,ZAF.3_1
+896,South Africa,2020-06-29,Gauteng,2946,,ZAF.3_1
+897,South Africa,2020-06-30,Gauteng,3040,,ZAF.3_1
+898,South Africa,2020-07-01,Gauteng,3063,,ZAF.3_1
+899,South Africa,2020-07-02,Gauteng,3993,,ZAF.3_1
+900,South Africa,2020-07-03,Gauteng,4394,,ZAF.3_1
+901,South Africa,2020-07-04,Gauteng,5042,,ZAF.3_1
+902,South Africa,2020-07-05,Gauteng,4031,,ZAF.3_1
+903,South Africa,2020-07-06,Gauteng,3487,,ZAF.3_1
+904,South Africa,2020-07-07,Gauteng,4597,,ZAF.3_1
+905,South Africa,2020-07-08,Gauteng,3527,,ZAF.3_1
+906,South Africa,2020-07-09,Gauteng,6531,,ZAF.3_1
+907,South Africa,2020-07-10,Gauteng,5487,,ZAF.3_1
+908,South Africa,2020-07-11,Gauteng,6011,,ZAF.3_1
+909,South Africa,2020-07-12,Gauteng,5387,,ZAF.3_1
+910,South Africa,2020-07-13,Gauteng,5282,,ZAF.3_1
+911,South Africa,2020-07-14,Gauteng,3357,,ZAF.3_1
+912,South Africa,2020-07-15,Gauteng,5644,,ZAF.3_1
+913,South Africa,2020-07-16,Gauteng,5181,,ZAF.3_1
+914,South Africa,2020-07-17,Gauteng,5513,,ZAF.3_1
+915,South Africa,2020-07-18,Gauteng,5196,,ZAF.3_1
+916,South Africa,2020-07-19,Gauteng,5013,,ZAF.3_1
+917,South Africa,2020-07-20,Gauteng,3262,,ZAF.3_1
+918,South Africa,2020-07-21,Gauteng,2556,,ZAF.3_1
+919,South Africa,2020-07-22,Gauteng,5147,,ZAF.3_1
+920,South Africa,2020-07-23,Gauteng,4272,,ZAF.3_1
+921,South Africa,2020-07-24,Gauteng,4166,,ZAF.3_1
+922,South Africa,2020-07-25,Gauteng,3801,,ZAF.3_1
+923,South Africa,2020-07-26,Gauteng,3333,,ZAF.3_1
+924,South Africa,2020-07-27,Gauteng,2165,,ZAF.3_1
+925,South Africa,2020-07-28,Gauteng,2265,,ZAF.3_1
+926,South Africa,2020-07-29,Gauteng,3785,,ZAF.3_1
+927,South Africa,2020-07-30,Gauteng,3205,,ZAF.3_1
+928,South Africa,2020-07-31,Gauteng,3698,,ZAF.3_1
+929,South Africa,2020-08-01,Gauteng,2847,,ZAF.3_1
+930,South Africa,2020-08-02,Gauteng,2413,,ZAF.3_1
+931,South Africa,2020-08-03,Gauteng,1414,,ZAF.3_1
+932,South Africa,2020-08-04,Gauteng,1144,,ZAF.3_1
+933,South Africa,2020-08-05,Gauteng,2192,,ZAF.3_1
+934,South Africa,2020-08-06,Gauteng,2349,,ZAF.3_1
+935,South Africa,2020-08-07,Gauteng,1528,,ZAF.3_1
+936,South Africa,2020-08-08,Gauteng,1840,,ZAF.3_1
+937,South Africa,2020-08-09,Gauteng,1768,,ZAF.3_1
+938,South Africa,2020-08-10,Gauteng,794,,ZAF.3_1
+939,South Africa,2020-08-11,Gauteng,532,,ZAF.3_1
+940,South Africa,2020-08-12,Gauteng,592,,ZAF.3_1
+941,South Africa,2020-08-13,Gauteng,1135,,ZAF.3_1
+942,South Africa,2020-08-14,Gauteng,1711,,ZAF.3_1
+943,South Africa,2020-08-15,Gauteng,1140,,ZAF.3_1
+944,South Africa,2020-08-16,Gauteng,964,,ZAF.3_1
+945,South Africa,2020-08-17,Gauteng,602,,ZAF.3_1
+946,South Africa,2020-08-18,Gauteng,712,,ZAF.3_1
+947,South Africa,2020-08-19,Gauteng,1062,,ZAF.3_1
+948,South Africa,2020-08-20,Gauteng,944,,ZAF.3_1
+949,South Africa,2020-08-21,Gauteng,877,,ZAF.3_1
+950,South Africa,2020-08-22,Gauteng,1414,,ZAF.3_1
+951,South Africa,2020-08-23,Gauteng,772,,ZAF.3_1
+952,South Africa,2020-08-24,Gauteng,507,,ZAF.3_1
+953,South Africa,2020-08-25,Gauteng,367,,ZAF.3_1
+954,South Africa,2020-08-26,Gauteng,718,,ZAF.3_1
+955,South Africa,2020-08-27,Gauteng,546,,ZAF.3_1
+956,South Africa,2020-08-28,Gauteng,423,,ZAF.3_1
+957,South Africa,2020-08-29,Gauteng,544,,ZAF.3_1
+958,South Africa,2020-08-30,Gauteng,525,,ZAF.3_1
+959,South Africa,2020-08-31,Gauteng,521,,ZAF.3_1
+960,South Africa,2020-09-01,Gauteng,349,,ZAF.3_1
+961,South Africa,2020-09-02,Gauteng,639,,ZAF.3_1
+962,South Africa,2020-09-03,Gauteng,521,,ZAF.3_1
+963,South Africa,2020-09-04,Gauteng,508,,ZAF.3_1
+964,South Africa,2020-09-05,Gauteng,378,,ZAF.3_1
+965,South Africa,2020-09-06,Gauteng,334,,ZAF.3_1
+966,South Africa,2020-09-07,Gauteng,189,,ZAF.3_1
+967,South Africa,2020-09-08,Gauteng,246,,ZAF.3_1
+968,South Africa,2020-09-09,Gauteng,408,,ZAF.3_1
+969,South Africa,2020-09-10,Gauteng,411,,ZAF.3_1
+970,South Africa,2020-09-11,Gauteng,334,,ZAF.3_1
+971,South Africa,2020-09-12,Gauteng,345,,ZAF.3_1
+972,South Africa,2020-09-13,Gauteng,309,,ZAF.3_1
+973,South Africa,2020-09-14,Gauteng,167,,ZAF.3_1
+974,South Africa,2020-09-15,Gauteng,174,,ZAF.3_1
+975,South Africa,2020-09-16,Gauteng,417,,ZAF.3_1
+976,South Africa,2020-09-17,Gauteng,443,,ZAF.3_1
+977,South Africa,2020-09-18,Gauteng,449,,ZAF.3_1
+978,South Africa,2020-09-19,Gauteng,326,,ZAF.3_1
+979,South Africa,2020-09-20,Gauteng,254,,ZAF.3_1
+980,South Africa,2020-09-21,Gauteng,115,,ZAF.3_1
+981,South Africa,2020-09-22,Gauteng,274,,ZAF.3_1
+982,South Africa,2020-09-23,Gauteng,356,,ZAF.3_1
+983,South Africa,2020-09-24,Gauteng,305,,ZAF.3_1
+984,South Africa,2020-09-25,Gauteng,230,,ZAF.3_1
+985,South Africa,2020-09-26,Gauteng,211,,ZAF.3_1
+986,South Africa,2020-09-27,Gauteng,178,,ZAF.3_1
+987,South Africa,2020-09-28,Gauteng,163,,ZAF.3_1
+988,South Africa,2020-09-29,Gauteng,171,,ZAF.3_1
+989,South Africa,2020-09-30,Gauteng,331,,ZAF.3_1
+990,South Africa,2020-03-05,KwaZulu-Natal,1,,ZAF.4_1
+991,South Africa,2020-03-07,KwaZulu-Natal,0,,ZAF.4_1
+992,South Africa,2020-03-08,KwaZulu-Natal,1,,ZAF.4_1
+993,South Africa,2020-03-09,KwaZulu-Natal,4,,ZAF.4_1
+994,South Africa,2020-03-11,KwaZulu-Natal,1,,ZAF.4_1
+995,South Africa,2020-03-12,KwaZulu-Natal,1,,ZAF.4_1
+996,South Africa,2020-03-13,KwaZulu-Natal,2,,ZAF.4_1
+997,South Africa,2020-03-14,KwaZulu-Natal,1,,ZAF.4_1
+998,South Africa,2020-03-15,KwaZulu-Natal,1,,ZAF.4_1
+999,South Africa,2020-03-16,KwaZulu-Natal,0,,ZAF.4_1
+1000,South Africa,2020-03-17,KwaZulu-Natal,4,,ZAF.4_1
+1001,South Africa,2020-03-18,KwaZulu-Natal,3,,ZAF.4_1
+1002,South Africa,2020-03-19,KwaZulu-Natal,3,,ZAF.4_1
+1003,South Africa,2020-03-20,KwaZulu-Natal,1,,ZAF.4_1
+1004,South Africa,2020-03-21,KwaZulu-Natal,3,,ZAF.4_1
+1005,South Africa,2020-03-22,KwaZulu-Natal,9,,ZAF.4_1
+1006,South Africa,2020-03-23,KwaZulu-Natal,25,,ZAF.4_1
+1007,South Africa,2020-03-24,KwaZulu-Natal,20,,ZAF.4_1
+1008,South Africa,2020-03-25,KwaZulu-Natal,11,,ZAF.4_1
+1009,South Africa,2020-03-26,KwaZulu-Natal,43,,ZAF.4_1
+1010,South Africa,2020-03-28,KwaZulu-Natal,22,,ZAF.4_1
+1011,South Africa,2020-03-29,KwaZulu-Natal,11,,ZAF.4_1
+1012,South Africa,2020-03-30,KwaZulu-Natal,4,,ZAF.4_1
+1013,South Africa,2020-03-31,KwaZulu-Natal,8,,ZAF.4_1
+1014,South Africa,2020-04-01,KwaZulu-Natal,7,,ZAF.4_1
+1015,South Africa,2020-04-02,KwaZulu-Natal,20,,ZAF.4_1
+1016,South Africa,2020-04-03,KwaZulu-Natal,9,,ZAF.4_1
+1017,South Africa,2020-04-04,KwaZulu-Natal,17,,ZAF.4_1
+1018,South Africa,2020-04-05,KwaZulu-Natal,14,,ZAF.4_1
+1019,South Africa,2020-04-06,KwaZulu-Natal,11,,ZAF.4_1
+1020,South Africa,2020-04-08,KwaZulu-Natal,97,,ZAF.4_1
+1021,South Africa,2020-04-09,KwaZulu-Natal,33,,ZAF.4_1
+1022,South Africa,2020-04-10,KwaZulu-Natal,25,,ZAF.4_1
+1023,South Africa,2020-04-11,KwaZulu-Natal,6,,ZAF.4_1
+1024,South Africa,2020-04-12,KwaZulu-Natal,25,,ZAF.4_1
+1025,South Africa,2020-04-13,KwaZulu-Natal,22,,ZAF.4_1
+1026,South Africa,2020-04-14,KwaZulu-Natal,24,,ZAF.4_1
+1027,South Africa,2020-04-15,KwaZulu-Natal,30,,ZAF.4_1
+1028,South Africa,2020-04-16,KwaZulu-Natal,20,,ZAF.4_1
+1029,South Africa,2020-04-17,KwaZulu-Natal,52,,ZAF.4_1
+1030,South Africa,2020-04-18,KwaZulu-Natal,13,,ZAF.4_1
+1031,South Africa,2020-04-19,KwaZulu-Natal,13,,ZAF.4_1
+1032,South Africa,2020-04-20,KwaZulu-Natal,22,,ZAF.4_1
+1033,South Africa,2020-04-21,KwaZulu-Natal,32,,ZAF.4_1
+1034,South Africa,2020-04-22,KwaZulu-Natal,87,,ZAF.4_1
+1035,South Africa,2020-04-23,KwaZulu-Natal,49,,ZAF.4_1
+1036,South Africa,2020-04-24,KwaZulu-Natal,34,,ZAF.4_1
+1037,South Africa,2020-04-25,KwaZulu-Natal,0,,ZAF.4_1
+1038,South Africa,2020-04-26,KwaZulu-Natal,22,,ZAF.4_1
+1039,South Africa,2020-04-27,KwaZulu-Natal,39,,ZAF.4_1
+1040,South Africa,2020-04-28,KwaZulu-Natal,17,,ZAF.4_1
+1041,South Africa,2020-04-29,KwaZulu-Natal,37,,ZAF.4_1
+1042,South Africa,2020-04-30,KwaZulu-Natal,24,,ZAF.4_1
+1043,South Africa,2020-05-01,KwaZulu-Natal,26,,ZAF.4_1
+1044,South Africa,2020-05-02,KwaZulu-Natal,45,,ZAF.4_1
+1045,South Africa,2020-05-03,KwaZulu-Natal,25,,ZAF.4_1
+1046,South Africa,2020-05-04,KwaZulu-Natal,30,,ZAF.4_1
+1047,South Africa,2020-05-05,KwaZulu-Natal,36,,ZAF.4_1
+1048,South Africa,2020-05-06,KwaZulu-Natal,7,,ZAF.4_1
+1049,South Africa,2020-05-07,KwaZulu-Natal,55,,ZAF.4_1
+1050,South Africa,2020-05-08,KwaZulu-Natal,49,,ZAF.4_1
+1051,South Africa,2020-05-09,KwaZulu-Natal,55,,ZAF.4_1
+1052,South Africa,2020-05-10,KwaZulu-Natal,45,,ZAF.4_1
+1053,South Africa,2020-05-11,KwaZulu-Natal,19,,ZAF.4_1
+1054,South Africa,2020-05-12,KwaZulu-Natal,22,,ZAF.4_1
+1055,South Africa,2020-05-13,KwaZulu-Natal,19,,ZAF.4_1
+1056,South Africa,2020-05-14,KwaZulu-Natal,31,,ZAF.4_1
+1057,South Africa,2020-05-15,KwaZulu-Natal,38,,ZAF.4_1
+1058,South Africa,2020-05-16,KwaZulu-Natal,16,,ZAF.4_1
+1059,South Africa,2020-05-17,KwaZulu-Natal,45,,ZAF.4_1
+1060,South Africa,2020-05-18,KwaZulu-Natal,24,,ZAF.4_1
+1061,South Africa,2020-05-19,KwaZulu-Natal,49,,ZAF.4_1
+1062,South Africa,2020-05-20,KwaZulu-Natal,34,,ZAF.4_1
+1063,South Africa,2020-05-21,KwaZulu-Natal,43,,ZAF.4_1
+1064,South Africa,2020-05-22,KwaZulu-Natal,42,,ZAF.4_1
+1065,South Africa,2020-05-23,KwaZulu-Natal,42,,ZAF.4_1
+1066,South Africa,2020-05-24,KwaZulu-Natal,38,,ZAF.4_1
+1067,South Africa,2020-05-25,KwaZulu-Natal,67,,ZAF.4_1
+1068,South Africa,2020-05-26,KwaZulu-Natal,45,,ZAF.4_1
+1069,South Africa,2020-05-27,KwaZulu-Natal,259,,ZAF.4_1
+1070,South Africa,2020-05-28,KwaZulu-Natal,163,,ZAF.4_1
+1071,South Africa,2020-05-29,KwaZulu-Natal,79,,ZAF.4_1
+1072,South Africa,2020-05-30,KwaZulu-Natal,48,,ZAF.4_1
+1073,South Africa,2020-05-31,KwaZulu-Natal,69,,ZAF.4_1
+1074,South Africa,2020-06-01,KwaZulu-Natal,20,,ZAF.4_1
+1075,South Africa,2020-06-02,KwaZulu-Natal,72,,ZAF.4_1
+1076,South Africa,2020-06-03,KwaZulu-Natal,70,,ZAF.4_1
+1077,South Africa,2020-06-04,KwaZulu-Natal,162,,ZAF.4_1
+1078,South Africa,2020-06-05,KwaZulu-Natal,67,,ZAF.4_1
+1079,South Africa,2020-06-06,KwaZulu-Natal,80,,ZAF.4_1
+1080,South Africa,2020-06-07,KwaZulu-Natal,92,,ZAF.4_1
+1081,South Africa,2020-06-08,KwaZulu-Natal,67,,ZAF.4_1
+1082,South Africa,2020-06-09,KwaZulu-Natal,80,,ZAF.4_1
+1083,South Africa,2020-06-10,KwaZulu-Natal,92,,ZAF.4_1
+1084,South Africa,2020-06-11,KwaZulu-Natal,125,,ZAF.4_1
+1085,South Africa,2020-06-12,KwaZulu-Natal,101,,ZAF.4_1
+1086,South Africa,2020-06-13,KwaZulu-Natal,190,,ZAF.4_1
+1087,South Africa,2020-06-14,KwaZulu-Natal,111,,ZAF.4_1
+1088,South Africa,2020-06-15,KwaZulu-Natal,85,,ZAF.4_1
+1089,South Africa,2020-06-16,KwaZulu-Natal,89,,ZAF.4_1
+1090,South Africa,2020-06-17,KwaZulu-Natal,190,,ZAF.4_1
+1091,South Africa,2020-06-18,KwaZulu-Natal,122,,ZAF.4_1
+1092,South Africa,2020-06-19,KwaZulu-Natal,188,,ZAF.4_1
+1093,South Africa,2020-06-20,KwaZulu-Natal,258,,ZAF.4_1
+1094,South Africa,2020-06-21,KwaZulu-Natal,224,,ZAF.4_1
+1095,South Africa,2020-06-22,KwaZulu-Natal,248,,ZAF.4_1
+1096,South Africa,2020-06-23,KwaZulu-Natal,347,,ZAF.4_1
+1097,South Africa,2020-06-24,KwaZulu-Natal,450,,ZAF.4_1
+1098,South Africa,2020-06-25,KwaZulu-Natal,515,,ZAF.4_1
+1099,South Africa,2020-06-26,KwaZulu-Natal,500,,ZAF.4_1
+1100,South Africa,2020-06-27,KwaZulu-Natal,696,,ZAF.4_1
+1101,South Africa,2020-06-28,KwaZulu-Natal,647,,ZAF.4_1
+1102,South Africa,2020-06-29,KwaZulu-Natal,608,,ZAF.4_1
+1103,South Africa,2020-06-30,KwaZulu-Natal,633,,ZAF.4_1
+1104,South Africa,2020-07-01,KwaZulu-Natal,958,,ZAF.4_1
+1105,South Africa,2020-07-02,KwaZulu-Natal,1037,,ZAF.4_1
+1106,South Africa,2020-07-03,KwaZulu-Natal,1088,,ZAF.4_1
+1107,South Africa,2020-07-04,KwaZulu-Natal,1227,,ZAF.4_1
+1108,South Africa,2020-07-05,KwaZulu-Natal,1162,,ZAF.4_1
+1109,South Africa,2020-07-06,KwaZulu-Natal,673,,ZAF.4_1
+1110,South Africa,2020-07-07,KwaZulu-Natal,924,,ZAF.4_1
+1111,South Africa,2020-07-08,KwaZulu-Natal,1219,,ZAF.4_1
+1112,South Africa,2020-07-09,KwaZulu-Natal,1668,,ZAF.4_1
+1113,South Africa,2020-07-10,KwaZulu-Natal,1756,,ZAF.4_1
+1114,South Africa,2020-07-11,KwaZulu-Natal,2367,,ZAF.4_1
+1115,South Africa,2020-07-12,KwaZulu-Natal,1819,,ZAF.4_1
+1116,South Africa,2020-07-13,KwaZulu-Natal,1815,,ZAF.4_1
+1117,South Africa,2020-07-14,KwaZulu-Natal,3200,,ZAF.4_1
+1118,South Africa,2020-07-15,KwaZulu-Natal,2352,,ZAF.4_1
+1119,South Africa,2020-07-16,KwaZulu-Natal,2665,,ZAF.4_1
+1120,South Africa,2020-07-17,KwaZulu-Natal,2118,,ZAF.4_1
+1121,South Africa,2020-07-18,KwaZulu-Natal,2364,,ZAF.4_1
+1122,South Africa,2020-07-19,KwaZulu-Natal,3129,,ZAF.4_1
+1123,South Africa,2020-07-20,KwaZulu-Natal,2399,,ZAF.4_1
+1124,South Africa,2020-07-21,KwaZulu-Natal,2071,,ZAF.4_1
+1125,South Africa,2020-07-22,KwaZulu-Natal,2836,,ZAF.4_1
+1126,South Africa,2020-07-23,KwaZulu-Natal,2885,,ZAF.4_1
+1127,South Africa,2020-07-24,KwaZulu-Natal,3756,,ZAF.4_1
+1128,South Africa,2020-07-25,KwaZulu-Natal,3370,,ZAF.4_1
+1129,South Africa,2020-07-26,KwaZulu-Natal,3529,,ZAF.4_1
+1130,South Africa,2020-07-27,KwaZulu-Natal,1921,,ZAF.4_1
+1131,South Africa,2020-07-28,KwaZulu-Natal,2119,,ZAF.4_1
+1132,South Africa,2020-07-29,KwaZulu-Natal,3139,,ZAF.4_1
+1133,South Africa,2020-07-30,KwaZulu-Natal,2679,,ZAF.4_1
+1134,South Africa,2020-07-31,KwaZulu-Natal,2787,,ZAF.4_1
+1135,South Africa,2020-08-01,KwaZulu-Natal,2901,,ZAF.4_1
+1136,South Africa,2020-08-02,KwaZulu-Natal,2693,,ZAF.4_1
+1137,South Africa,2020-08-03,KwaZulu-Natal,2061,,ZAF.4_1
+1138,South Africa,2020-08-04,KwaZulu-Natal,1625,,ZAF.4_1
+1139,South Africa,2020-08-05,KwaZulu-Natal,1812,,ZAF.4_1
+1140,South Africa,2020-08-06,KwaZulu-Natal,2317,,ZAF.4_1
+1141,South Africa,2020-08-07,KwaZulu-Natal,2329,,ZAF.4_1
+1142,South Africa,2020-08-08,KwaZulu-Natal,3204,,ZAF.4_1
+1143,South Africa,2020-08-09,KwaZulu-Natal,2420,,ZAF.4_1
+1144,South Africa,2020-08-10,KwaZulu-Natal,1318,,ZAF.4_1
+1145,South Africa,2020-08-11,KwaZulu-Natal,1108,,ZAF.4_1
+1146,South Africa,2020-08-12,KwaZulu-Natal,1005,,ZAF.4_1
+1147,South Africa,2020-08-13,KwaZulu-Natal,734,,ZAF.4_1
+1148,South Africa,2020-08-14,KwaZulu-Natal,1511,,ZAF.4_1
+1149,South Africa,2020-08-15,KwaZulu-Natal,875,,ZAF.4_1
+1150,South Africa,2020-08-16,KwaZulu-Natal,764,,ZAF.4_1
+1151,South Africa,2020-08-17,KwaZulu-Natal,654,,ZAF.4_1
+1152,South Africa,2020-08-18,KwaZulu-Natal,528,,ZAF.4_1
+1153,South Africa,2020-08-19,KwaZulu-Natal,706,,ZAF.4_1
+1154,South Africa,2020-08-20,KwaZulu-Natal,809,,ZAF.4_1
+1155,South Africa,2020-08-21,KwaZulu-Natal,708,,ZAF.4_1
+1156,South Africa,2020-08-22,KwaZulu-Natal,544,,ZAF.4_1
+1157,South Africa,2020-08-23,KwaZulu-Natal,509,,ZAF.4_1
+1158,South Africa,2020-08-24,KwaZulu-Natal,261,,ZAF.4_1
+1159,South Africa,2020-08-25,KwaZulu-Natal,419,,ZAF.4_1
+1160,South Africa,2020-08-26,KwaZulu-Natal,575,,ZAF.4_1
+1161,South Africa,2020-08-27,KwaZulu-Natal,489,,ZAF.4_1
+1162,South Africa,2020-08-28,KwaZulu-Natal,278,,ZAF.4_1
+1163,South Africa,2020-08-29,KwaZulu-Natal,428,,ZAF.4_1
+1164,South Africa,2020-08-30,KwaZulu-Natal,435,,ZAF.4_1
+1165,South Africa,2020-08-31,KwaZulu-Natal,280,,ZAF.4_1
+1166,South Africa,2020-09-01,KwaZulu-Natal,231,,ZAF.4_1
+1167,South Africa,2020-09-02,KwaZulu-Natal,424,,ZAF.4_1
+1168,South Africa,2020-09-03,KwaZulu-Natal,373,,ZAF.4_1
+1169,South Africa,2020-09-04,KwaZulu-Natal,326,,ZAF.4_1
+1170,South Africa,2020-09-05,KwaZulu-Natal,286,,ZAF.4_1
+1171,South Africa,2020-09-06,KwaZulu-Natal,178,,ZAF.4_1
+1172,South Africa,2020-09-07,KwaZulu-Natal,80,,ZAF.4_1
+1173,South Africa,2020-09-08,KwaZulu-Natal,177,,ZAF.4_1
+1174,South Africa,2020-09-09,KwaZulu-Natal,291,,ZAF.4_1
+1175,South Africa,2020-09-10,KwaZulu-Natal,286,,ZAF.4_1
+1176,South Africa,2020-09-11,KwaZulu-Natal,281,,ZAF.4_1
+1177,South Africa,2020-09-12,KwaZulu-Natal,228,,ZAF.4_1
+1178,South Africa,2020-09-13,KwaZulu-Natal,222,,ZAF.4_1
+1179,South Africa,2020-09-14,KwaZulu-Natal,124,,ZAF.4_1
+1180,South Africa,2020-09-15,KwaZulu-Natal,161,,ZAF.4_1
+1181,South Africa,2020-09-16,KwaZulu-Natal,236,,ZAF.4_1
+1182,South Africa,2020-09-17,KwaZulu-Natal,237,,ZAF.4_1
+1183,South Africa,2020-09-18,KwaZulu-Natal,213,,ZAF.4_1
+1184,South Africa,2020-09-19,KwaZulu-Natal,209,,ZAF.4_1
+1185,South Africa,2020-09-20,KwaZulu-Natal,174,,ZAF.4_1
+1186,South Africa,2020-09-21,KwaZulu-Natal,90,,ZAF.4_1
+1187,South Africa,2020-09-22,KwaZulu-Natal,139,,ZAF.4_1
+1188,South Africa,2020-09-23,KwaZulu-Natal,202,,ZAF.4_1
+1189,South Africa,2020-09-24,KwaZulu-Natal,176,,ZAF.4_1
+1190,South Africa,2020-09-25,KwaZulu-Natal,139,,ZAF.4_1
+1191,South Africa,2020-09-26,KwaZulu-Natal,119,,ZAF.4_1
+1192,South Africa,2020-09-27,KwaZulu-Natal,123,,ZAF.4_1
+1193,South Africa,2020-09-28,KwaZulu-Natal,66,,ZAF.4_1
+1194,South Africa,2020-09-29,KwaZulu-Natal,92,,ZAF.4_1
+1195,South Africa,2020-09-30,KwaZulu-Natal,183,,ZAF.4_1
+1196,South Africa,2020-03-05,Limpopo,0,,ZAF.5_1
+1197,South Africa,2020-03-07,Limpopo,0,,ZAF.5_1
+1198,South Africa,2020-03-08,Limpopo,0,,ZAF.5_1
+1199,South Africa,2020-03-09,Limpopo,0,,ZAF.5_1
+1200,South Africa,2020-03-11,Limpopo,0,,ZAF.5_1
+1201,South Africa,2020-03-12,Limpopo,0,,ZAF.5_1
+1202,South Africa,2020-03-13,Limpopo,0,,ZAF.5_1
+1203,South Africa,2020-03-14,Limpopo,0,,ZAF.5_1
+1204,South Africa,2020-03-15,Limpopo,0,,ZAF.5_1
+1205,South Africa,2020-03-16,Limpopo,1,,ZAF.5_1
+1206,South Africa,2020-03-17,Limpopo,0,,ZAF.5_1
+1207,South Africa,2020-03-18,Limpopo,0,,ZAF.5_1
+1208,South Africa,2020-03-19,Limpopo,0,,ZAF.5_1
+1209,South Africa,2020-03-20,Limpopo,0,,ZAF.5_1
+1210,South Africa,2020-03-21,Limpopo,0,,ZAF.5_1
+1211,South Africa,2020-03-22,Limpopo,1,,ZAF.5_1
+1212,South Africa,2020-03-23,Limpopo,2,,ZAF.5_1
+1213,South Africa,2020-03-24,Limpopo,0,,ZAF.5_1
+1214,South Africa,2020-03-25,Limpopo,0,,ZAF.5_1
+1215,South Africa,2020-03-26,Limpopo,2,,ZAF.5_1
+1216,South Africa,2020-03-28,Limpopo,5,,ZAF.5_1
+1217,South Africa,2020-03-29,Limpopo,1,,ZAF.5_1
+1218,South Africa,2020-03-30,Limpopo,-1,,ZAF.5_1
+1219,South Africa,2020-03-31,Limpopo,3,,ZAF.5_1
+1220,South Africa,2020-04-01,Limpopo,0,,ZAF.5_1
+1221,South Africa,2020-04-02,Limpopo,2,,ZAF.5_1
+1222,South Africa,2020-04-03,Limpopo,0,,ZAF.5_1
+1223,South Africa,2020-04-04,Limpopo,2,,ZAF.5_1
+1224,South Africa,2020-04-05,Limpopo,1,,ZAF.5_1
+1225,South Africa,2020-04-06,Limpopo,0,,ZAF.5_1
+1226,South Africa,2020-04-08,Limpopo,2,,ZAF.5_1
+1227,South Africa,2020-04-09,Limpopo,1,,ZAF.5_1
+1228,South Africa,2020-04-10,Limpopo,2,,ZAF.5_1
+1229,South Africa,2020-04-11,Limpopo,-1,,ZAF.5_1
+1230,South Africa,2020-04-12,Limpopo,0,,ZAF.5_1
+1231,South Africa,2020-04-13,Limpopo,0,,ZAF.5_1
+1232,South Africa,2020-04-14,Limpopo,1,,ZAF.5_1
+1233,South Africa,2020-04-15,Limpopo,1,,ZAF.5_1
+1234,South Africa,2020-04-16,Limpopo,1,,ZAF.5_1
+1235,South Africa,2020-04-17,Limpopo,0,,ZAF.5_1
+1236,South Africa,2020-04-18,Limpopo,0,,ZAF.5_1
+1237,South Africa,2020-04-19,Limpopo,1,,ZAF.5_1
+1238,South Africa,2020-04-20,Limpopo,0,,ZAF.5_1
+1239,South Africa,2020-04-21,Limpopo,0,,ZAF.5_1
+1240,South Africa,2020-04-22,Limpopo,0,,ZAF.5_1
+1241,South Africa,2020-04-23,Limpopo,0,,ZAF.5_1
+1242,South Africa,2020-04-24,Limpopo,2,,ZAF.5_1
+1243,South Africa,2020-04-25,Limpopo,1,,ZAF.5_1
+1244,South Africa,2020-04-26,Limpopo,1,,ZAF.5_1
+1245,South Africa,2020-04-27,Limpopo,0,,ZAF.5_1
+1246,South Africa,2020-04-28,Limpopo,0,,ZAF.5_1
+1247,South Africa,2020-04-29,Limpopo,0,,ZAF.5_1
+1248,South Africa,2020-04-30,Limpopo,1,,ZAF.5_1
+1249,South Africa,2020-05-01,Limpopo,2,,ZAF.5_1
+1250,South Africa,2020-05-02,Limpopo,2,,ZAF.5_1
+1251,South Africa,2020-05-03,Limpopo,1,,ZAF.5_1
+1252,South Africa,2020-05-04,Limpopo,2,,ZAF.5_1
+1253,South Africa,2020-05-05,Limpopo,1,,ZAF.5_1
+1254,South Africa,2020-05-06,Limpopo,0,,ZAF.5_1
+1255,South Africa,2020-05-07,Limpopo,1,,ZAF.5_1
+1256,South Africa,2020-05-08,Limpopo,2,,ZAF.5_1
+1257,South Africa,2020-05-09,Limpopo,8,,ZAF.5_1
+1258,South Africa,2020-05-10,Limpopo,3,,ZAF.5_1
+1259,South Africa,2020-05-11,Limpopo,0,,ZAF.5_1
+1260,South Africa,2020-05-12,Limpopo,0,,ZAF.5_1
+1261,South Africa,2020-05-13,Limpopo,0,,ZAF.5_1
+1262,South Africa,2020-05-14,Limpopo,1,,ZAF.5_1
+1263,South Africa,2020-05-15,Limpopo,2,,ZAF.5_1
+1264,South Africa,2020-05-16,Limpopo,2,,ZAF.5_1
+1265,South Africa,2020-05-17,Limpopo,18,,ZAF.5_1
+1266,South Africa,2020-05-18,Limpopo,11,,ZAF.5_1
+1267,South Africa,2020-05-19,Limpopo,6,,ZAF.5_1
+1268,South Africa,2020-05-20,Limpopo,-1,,ZAF.5_1
+1269,South Africa,2020-05-21,Limpopo,28,,ZAF.5_1
+1270,South Africa,2020-05-22,Limpopo,-1,,ZAF.5_1
+1271,South Africa,2020-05-23,Limpopo,4,,ZAF.5_1
+1272,South Africa,2020-05-24,Limpopo,4,,ZAF.5_1
+1273,South Africa,2020-05-25,Limpopo,4,,ZAF.5_1
+1274,South Africa,2020-05-26,Limpopo,0,,ZAF.5_1
+1275,South Africa,2020-05-27,Limpopo,9,,ZAF.5_1
+1276,South Africa,2020-05-28,Limpopo,3,,ZAF.5_1
+1277,South Africa,2020-05-29,Limpopo,26,,ZAF.5_1
+1278,South Africa,2020-05-30,Limpopo,3,,ZAF.5_1
+1279,South Africa,2020-05-31,Limpopo,4,,ZAF.5_1
+1280,South Africa,2020-06-01,Limpopo,15,,ZAF.5_1
+1281,South Africa,2020-06-02,Limpopo,1,,ZAF.5_1
+1282,South Africa,2020-06-03,Limpopo,7,,ZAF.5_1
+1283,South Africa,2020-06-04,Limpopo,6,,ZAF.5_1
+1284,South Africa,2020-06-05,Limpopo,9,,ZAF.5_1
+1285,South Africa,2020-06-06,Limpopo,1,,ZAF.5_1
+1286,South Africa,2020-06-07,Limpopo,11,,ZAF.5_1
+1287,South Africa,2020-06-08,Limpopo,17,,ZAF.5_1
+1288,South Africa,2020-06-09,Limpopo,9,,ZAF.5_1
+1289,South Africa,2020-06-10,Limpopo,4,,ZAF.5_1
+1290,South Africa,2020-06-11,Limpopo,10,,ZAF.5_1
+1291,South Africa,2020-06-12,Limpopo,21,,ZAF.5_1
+1292,South Africa,2020-06-13,Limpopo,21,,ZAF.5_1
+1293,South Africa,2020-06-14,Limpopo,17,,ZAF.5_1
+1294,South Africa,2020-06-15,Limpopo,36,,ZAF.5_1
+1295,South Africa,2020-06-16,Limpopo,29,,ZAF.5_1
+1296,South Africa,2020-06-17,Limpopo,25,,ZAF.5_1
+1297,South Africa,2020-06-18,Limpopo,73,,ZAF.5_1
+1298,South Africa,2020-06-19,Limpopo,14,,ZAF.5_1
+1299,South Africa,2020-06-20,Limpopo,18,,ZAF.5_1
+1300,South Africa,2020-06-21,Limpopo,43,,ZAF.5_1
+1301,South Africa,2020-06-22,Limpopo,18,,ZAF.5_1
+1302,South Africa,2020-06-23,Limpopo,40,,ZAF.5_1
+1303,South Africa,2020-06-24,Limpopo,48,,ZAF.5_1
+1304,South Africa,2020-06-25,Limpopo,60,,ZAF.5_1
+1305,South Africa,2020-06-26,Limpopo,68,,ZAF.5_1
+1306,South Africa,2020-06-27,Limpopo,64,,ZAF.5_1
+1307,South Africa,2020-06-28,Limpopo,73,,ZAF.5_1
+1308,South Africa,2020-06-29,Limpopo,76,,ZAF.5_1
+1309,South Africa,2020-06-30,Limpopo,120,,ZAF.5_1
+1310,South Africa,2020-07-01,Limpopo,44,,ZAF.5_1
+1311,South Africa,2020-07-02,Limpopo,111,,ZAF.5_1
+1312,South Africa,2020-07-03,Limpopo,122,,ZAF.5_1
+1313,South Africa,2020-07-04,Limpopo,151,,ZAF.5_1
+1314,South Africa,2020-07-05,Limpopo,147,,ZAF.5_1
+1315,South Africa,2020-07-06,Limpopo,79,,ZAF.5_1
+1316,South Africa,2020-07-07,Limpopo,165,,ZAF.5_1
+1317,South Africa,2020-07-08,Limpopo,181,,ZAF.5_1
+1318,South Africa,2020-07-09,Limpopo,250,,ZAF.5_1
+1319,South Africa,2020-07-10,Limpopo,198,,ZAF.5_1
+1320,South Africa,2020-07-11,Limpopo,256,,ZAF.5_1
+1321,South Africa,2020-07-12,Limpopo,179,,ZAF.5_1
+1322,South Africa,2020-07-13,Limpopo,302,,ZAF.5_1
+1323,South Africa,2020-07-14,Limpopo,142,,ZAF.5_1
+1324,South Africa,2020-07-15,Limpopo,187,,ZAF.5_1
+1325,South Africa,2020-07-16,Limpopo,238,,ZAF.5_1
+1326,South Africa,2020-07-17,Limpopo,277,,ZAF.5_1
+1327,South Africa,2020-07-18,Limpopo,330,,ZAF.5_1
+1328,South Africa,2020-07-19,Limpopo,438,,ZAF.5_1
+1329,South Africa,2020-07-20,Limpopo,228,,ZAF.5_1
+1330,South Africa,2020-07-21,Limpopo,199,,ZAF.5_1
+1331,South Africa,2020-07-22,Limpopo,357,,ZAF.5_1
+1332,South Africa,2020-07-23,Limpopo,356,,ZAF.5_1
+1333,South Africa,2020-07-24,Limpopo,326,,ZAF.5_1
+1334,South Africa,2020-07-25,Limpopo,338,,ZAF.5_1
+1335,South Africa,2020-07-26,Limpopo,344,,ZAF.5_1
+1336,South Africa,2020-07-27,Limpopo,184,,ZAF.5_1
+1337,South Africa,2020-07-28,Limpopo,242,,ZAF.5_1
+1338,South Africa,2020-07-29,Limpopo,338,,ZAF.5_1
+1339,South Africa,2020-07-30,Limpopo,400,,ZAF.5_1
+1340,South Africa,2020-07-31,Limpopo,325,,ZAF.5_1
+1341,South Africa,2020-08-01,Limpopo,314,,ZAF.5_1
+1342,South Africa,2020-08-02,Limpopo,165,,ZAF.5_1
+1343,South Africa,2020-08-03,Limpopo,160,,ZAF.5_1
+1344,South Africa,2020-08-04,Limpopo,185,,ZAF.5_1
+1345,South Africa,2020-08-05,Limpopo,236,,ZAF.5_1
+1346,South Africa,2020-08-06,Limpopo,248,,ZAF.5_1
+1347,South Africa,2020-08-07,Limpopo,265,,ZAF.5_1
+1348,South Africa,2020-08-08,Limpopo,207,,ZAF.5_1
+1349,South Africa,2020-08-09,Limpopo,201,,ZAF.5_1
+1350,South Africa,2020-08-10,Limpopo,165,,ZAF.5_1
+1351,South Africa,2020-08-11,Limpopo,96,,ZAF.5_1
+1352,South Africa,2020-08-12,Limpopo,68,,ZAF.5_1
+1353,South Africa,2020-08-13,Limpopo,144,,ZAF.5_1
+1354,South Africa,2020-08-14,Limpopo,195,,ZAF.5_1
+1355,South Africa,2020-08-15,Limpopo,231,,ZAF.5_1
+1356,South Africa,2020-08-16,Limpopo,128,,ZAF.5_1
+1357,South Africa,2020-08-17,Limpopo,184,,ZAF.5_1
+1358,South Africa,2020-08-18,Limpopo,56,,ZAF.5_1
+1359,South Africa,2020-08-19,Limpopo,131,,ZAF.5_1
+1360,South Africa,2020-08-20,Limpopo,142,,ZAF.5_1
+1361,South Africa,2020-08-21,Limpopo,195,,ZAF.5_1
+1362,South Africa,2020-08-22,Limpopo,108,,ZAF.5_1
+1363,South Africa,2020-08-23,Limpopo,174,,ZAF.5_1
+1364,South Africa,2020-08-24,Limpopo,80,,ZAF.5_1
+1365,South Africa,2020-08-25,Limpopo,60,,ZAF.5_1
+1366,South Africa,2020-08-26,Limpopo,92,,ZAF.5_1
+1367,South Africa,2020-08-27,Limpopo,72,,ZAF.5_1
+1368,South Africa,2020-08-28,Limpopo,93,,ZAF.5_1
+1369,South Africa,2020-08-29,Limpopo,79,,ZAF.5_1
+1370,South Africa,2020-08-30,Limpopo,128,,ZAF.5_1
+1371,South Africa,2020-08-31,Limpopo,98,,ZAF.5_1
+1372,South Africa,2020-09-01,Limpopo,36,,ZAF.5_1
+1373,South Africa,2020-09-02,Limpopo,99,,ZAF.5_1
+1374,South Africa,2020-09-03,Limpopo,88,,ZAF.5_1
+1375,South Africa,2020-09-04,Limpopo,108,,ZAF.5_1
+1376,South Africa,2020-09-05,Limpopo,69,,ZAF.5_1
+1377,South Africa,2020-09-06,Limpopo,69,,ZAF.5_1
+1378,South Africa,2020-09-07,Limpopo,35,,ZAF.5_1
+1379,South Africa,2020-09-08,Limpopo,28,,ZAF.5_1
+1380,South Africa,2020-09-09,Limpopo,103,,ZAF.5_1
+1381,South Africa,2020-09-10,Limpopo,79,,ZAF.5_1
+1382,South Africa,2020-09-11,Limpopo,80,,ZAF.5_1
+1383,South Africa,2020-09-12,Limpopo,54,,ZAF.5_1
+1384,South Africa,2020-09-13,Limpopo,70,,ZAF.5_1
+1385,South Africa,2020-09-14,Limpopo,33,,ZAF.5_1
+1386,South Africa,2020-09-15,Limpopo,47,,ZAF.5_1
+1387,South Africa,2020-09-16,Limpopo,101,,ZAF.5_1
+1388,South Africa,2020-09-17,Limpopo,80,,ZAF.5_1
+1389,South Africa,2020-09-18,Limpopo,113,,ZAF.5_1
+1390,South Africa,2020-09-19,Limpopo,101,,ZAF.5_1
+1391,South Africa,2020-09-20,Limpopo,45,,ZAF.5_1
+1392,South Africa,2020-09-21,Limpopo,18,,ZAF.5_1
+1393,South Africa,2020-09-22,Limpopo,56,,ZAF.5_1
+1394,South Africa,2020-09-23,Limpopo,129,,ZAF.5_1
+1395,South Africa,2020-09-24,Limpopo,97,,ZAF.5_1
+1396,South Africa,2020-09-25,Limpopo,136,,ZAF.5_1
+1397,South Africa,2020-09-26,Limpopo,52,,ZAF.5_1
+1398,South Africa,2020-09-27,Limpopo,79,,ZAF.5_1
+1399,South Africa,2020-09-28,Limpopo,39,,ZAF.5_1
+1400,South Africa,2020-09-29,Limpopo,34,,ZAF.5_1
+1401,South Africa,2020-09-30,Limpopo,84,,ZAF.5_1
+1402,South Africa,2020-03-05,Mpumalanga,0,,ZAF.6_1
+1403,South Africa,2020-03-07,Mpumalanga,0,,ZAF.6_1
+1404,South Africa,2020-03-08,Mpumalanga,0,,ZAF.6_1
+1405,South Africa,2020-03-09,Mpumalanga,0,,ZAF.6_1
+1406,South Africa,2020-03-11,Mpumalanga,0,,ZAF.6_1
+1407,South Africa,2020-03-12,Mpumalanga,1,,ZAF.6_1
+1408,South Africa,2020-03-13,Mpumalanga,0,,ZAF.6_1
+1409,South Africa,2020-03-14,Mpumalanga,0,,ZAF.6_1
+1410,South Africa,2020-03-15,Mpumalanga,0,,ZAF.6_1
+1411,South Africa,2020-03-16,Mpumalanga,1,,ZAF.6_1
+1412,South Africa,2020-03-17,Mpumalanga,0,,ZAF.6_1
+1413,South Africa,2020-03-18,Mpumalanga,2,,ZAF.6_1
+1414,South Africa,2020-03-19,Mpumalanga,1,,ZAF.6_1
+1415,South Africa,2020-03-20,Mpumalanga,0,,ZAF.6_1
+1416,South Africa,2020-03-21,Mpumalanga,0,,ZAF.6_1
+1417,South Africa,2020-03-22,Mpumalanga,0,,ZAF.6_1
+1418,South Africa,2020-03-23,Mpumalanga,4,,ZAF.6_1
+1419,South Africa,2020-03-24,Mpumalanga,0,,ZAF.6_1
+1420,South Africa,2020-03-25,Mpumalanga,-1,,ZAF.6_1
+1421,South Africa,2020-03-26,Mpumalanga,1,,ZAF.6_1
+1422,South Africa,2020-03-28,Mpumalanga,1,,ZAF.6_1
+1423,South Africa,2020-03-29,Mpumalanga,1,,ZAF.6_1
+1424,South Africa,2020-03-30,Mpumalanga,0,,ZAF.6_1
+1425,South Africa,2020-03-31,Mpumalanga,1,,ZAF.6_1
+1426,South Africa,2020-04-01,Mpumalanga,0,,ZAF.6_1
+1427,South Africa,2020-04-02,Mpumalanga,1,,ZAF.6_1
+1428,South Africa,2020-04-03,Mpumalanga,0,,ZAF.6_1
+1429,South Africa,2020-04-04,Mpumalanga,5,,ZAF.6_1
+1430,South Africa,2020-04-05,Mpumalanga,0,,ZAF.6_1
+1431,South Africa,2020-04-06,Mpumalanga,0,,ZAF.6_1
+1432,South Africa,2020-04-08,Mpumalanga,3,,ZAF.6_1
+1433,South Africa,2020-04-09,Mpumalanga,-1,,ZAF.6_1
+1434,South Africa,2020-04-10,Mpumalanga,0,,ZAF.6_1
+1435,South Africa,2020-04-11,Mpumalanga,0,,ZAF.6_1
+1436,South Africa,2020-04-12,Mpumalanga,1,,ZAF.6_1
+1437,South Africa,2020-04-13,Mpumalanga,1,,ZAF.6_1
+1438,South Africa,2020-04-14,Mpumalanga,0,,ZAF.6_1
+1439,South Africa,2020-04-15,Mpumalanga,0,,ZAF.6_1
+1440,South Africa,2020-04-16,Mpumalanga,0,,ZAF.6_1
+1441,South Africa,2020-04-17,Mpumalanga,1,,ZAF.6_1
+1442,South Africa,2020-04-18,Mpumalanga,2,,ZAF.6_1
+1443,South Africa,2020-04-19,Mpumalanga,-2,,ZAF.6_1
+1444,South Africa,2020-04-20,Mpumalanga,0,,ZAF.6_1
+1445,South Africa,2020-04-21,Mpumalanga,1,,ZAF.6_1
+1446,South Africa,2020-04-22,Mpumalanga,-1,,ZAF.6_1
+1447,South Africa,2020-04-23,Mpumalanga,0,,ZAF.6_1
+1448,South Africa,2020-04-24,Mpumalanga,1,,ZAF.6_1
+1449,South Africa,2020-04-25,Mpumalanga,-1,,ZAF.6_1
+1450,South Africa,2020-04-26,Mpumalanga,0,,ZAF.6_1
+1451,South Africa,2020-04-27,Mpumalanga,3,,ZAF.6_1
+1452,South Africa,2020-04-28,Mpumalanga,0,,ZAF.6_1
+1453,South Africa,2020-04-29,Mpumalanga,5,,ZAF.6_1
+1454,South Africa,2020-04-30,Mpumalanga,5,,ZAF.6_1
+1455,South Africa,2020-05-01,Mpumalanga,-1,,ZAF.6_1
+1456,South Africa,2020-05-02,Mpumalanga,5,,ZAF.6_1
+1457,South Africa,2020-05-03,Mpumalanga,6,,ZAF.6_1
+1458,South Africa,2020-05-04,Mpumalanga,7,,ZAF.6_1
+1459,South Africa,2020-05-05,Mpumalanga,4,,ZAF.6_1
+1460,South Africa,2020-05-06,Mpumalanga,0,,ZAF.6_1
+1461,South Africa,2020-05-07,Mpumalanga,2,,ZAF.6_1
+1462,South Africa,2020-05-08,Mpumalanga,1,,ZAF.6_1
+1463,South Africa,2020-05-09,Mpumalanga,1,,ZAF.6_1
+1464,South Africa,2020-05-10,Mpumalanga,0,,ZAF.6_1
+1465,South Africa,2020-05-11,Mpumalanga,2,,ZAF.6_1
+1466,South Africa,2020-05-12,Mpumalanga,0,,ZAF.6_1
+1467,South Africa,2020-05-13,Mpumalanga,3,,ZAF.6_1
+1468,South Africa,2020-05-14,Mpumalanga,1,,ZAF.6_1
+1469,South Africa,2020-05-15,Mpumalanga,0,,ZAF.6_1
+1470,South Africa,2020-05-16,Mpumalanga,1,,ZAF.6_1
+1471,South Africa,2020-05-17,Mpumalanga,3,,ZAF.6_1
+1472,South Africa,2020-05-18,Mpumalanga,5,,ZAF.6_1
+1473,South Africa,2020-05-19,Mpumalanga,2,,ZAF.6_1
+1474,South Africa,2020-05-20,Mpumalanga,15,,ZAF.6_1
+1475,South Africa,2020-05-21,Mpumalanga,2,,ZAF.6_1
+1476,South Africa,2020-05-22,Mpumalanga,3,,ZAF.6_1
+1477,South Africa,2020-05-23,Mpumalanga,-1,,ZAF.6_1
+1478,South Africa,2020-05-24,Mpumalanga,4,,ZAF.6_1
+1479,South Africa,2020-05-25,Mpumalanga,2,,ZAF.6_1
+1480,South Africa,2020-05-26,Mpumalanga,0,,ZAF.6_1
+1481,South Africa,2020-05-27,Mpumalanga,3,,ZAF.6_1
+1482,South Africa,2020-05-28,Mpumalanga,5,,ZAF.6_1
+1483,South Africa,2020-05-29,Mpumalanga,1,,ZAF.6_1
+1484,South Africa,2020-05-30,Mpumalanga,1,,ZAF.6_1
+1485,South Africa,2020-05-31,Mpumalanga,8,,ZAF.6_1
+1486,South Africa,2020-06-01,Mpumalanga,10,,ZAF.6_1
+1487,South Africa,2020-06-02,Mpumalanga,1,,ZAF.6_1
+1488,South Africa,2020-06-03,Mpumalanga,5,,ZAF.6_1
+1489,South Africa,2020-06-04,Mpumalanga,7,,ZAF.6_1
+1490,South Africa,2020-06-05,Mpumalanga,25,,ZAF.6_1
+1491,South Africa,2020-06-06,Mpumalanga,12,,ZAF.6_1
+1492,South Africa,2020-06-07,Mpumalanga,8,,ZAF.6_1
+1493,South Africa,2020-06-08,Mpumalanga,-6,,ZAF.6_1
+1494,South Africa,2020-06-09,Mpumalanga,1,,ZAF.6_1
+1495,South Africa,2020-06-10,Mpumalanga,23,,ZAF.6_1
+1496,South Africa,2020-06-11,Mpumalanga,21,,ZAF.6_1
+1497,South Africa,2020-06-12,Mpumalanga,15,,ZAF.6_1
+1498,South Africa,2020-06-13,Mpumalanga,28,,ZAF.6_1
+1499,South Africa,2020-06-14,Mpumalanga,26,,ZAF.6_1
+1500,South Africa,2020-06-15,Mpumalanga,25,,ZAF.6_1
+1501,South Africa,2020-06-16,Mpumalanga,21,,ZAF.6_1
+1502,South Africa,2020-06-17,Mpumalanga,48,,ZAF.6_1
+1503,South Africa,2020-06-18,Mpumalanga,70,,ZAF.6_1
+1504,South Africa,2020-06-19,Mpumalanga,44,,ZAF.6_1
+1505,South Africa,2020-06-20,Mpumalanga,39,,ZAF.6_1
+1506,South Africa,2020-06-21,Mpumalanga,29,,ZAF.6_1
+1507,South Africa,2020-06-22,Mpumalanga,23,,ZAF.6_1
+1508,South Africa,2020-06-23,Mpumalanga,66,,ZAF.6_1
+1509,South Africa,2020-06-24,Mpumalanga,51,,ZAF.6_1
+1510,South Africa,2020-06-25,Mpumalanga,70,,ZAF.6_1
+1511,South Africa,2020-06-26,Mpumalanga,72,,ZAF.6_1
+1512,South Africa,2020-06-27,Mpumalanga,70,,ZAF.6_1
+1513,South Africa,2020-06-28,Mpumalanga,90,,ZAF.6_1
+1514,South Africa,2020-06-29,Mpumalanga,74,,ZAF.6_1
+1515,South Africa,2020-06-30,Mpumalanga,101,,ZAF.6_1
+1516,South Africa,2020-07-01,Mpumalanga,116,,ZAF.6_1
+1517,South Africa,2020-07-02,Mpumalanga,172,,ZAF.6_1
+1518,South Africa,2020-07-03,Mpumalanga,133,,ZAF.6_1
+1519,South Africa,2020-07-04,Mpumalanga,207,,ZAF.6_1
+1520,South Africa,2020-07-05,Mpumalanga,147,,ZAF.6_1
+1521,South Africa,2020-07-06,Mpumalanga,208,,ZAF.6_1
+1522,South Africa,2020-07-07,Mpumalanga,180,,ZAF.6_1
+1523,South Africa,2020-07-08,Mpumalanga,175,,ZAF.6_1
+1524,South Africa,2020-07-09,Mpumalanga,374,,ZAF.6_1
+1525,South Africa,2020-07-10,Mpumalanga,371,,ZAF.6_1
+1526,South Africa,2020-07-11,Mpumalanga,348,,ZAF.6_1
+1527,South Africa,2020-07-12,Mpumalanga,356,,ZAF.6_1
+1528,South Africa,2020-07-13,Mpumalanga,322,,ZAF.6_1
+1529,South Africa,2020-07-14,Mpumalanga,277,,ZAF.6_1
+1530,South Africa,2020-07-15,Mpumalanga,475,,ZAF.6_1
+1531,South Africa,2020-07-16,Mpumalanga,521,,ZAF.6_1
+1532,South Africa,2020-07-17,Mpumalanga,501,,ZAF.6_1
+1533,South Africa,2020-07-18,Mpumalanga,571,,ZAF.6_1
+1534,South Africa,2020-07-19,Mpumalanga,485,,ZAF.6_1
+1535,South Africa,2020-07-20,Mpumalanga,295,,ZAF.6_1
+1536,South Africa,2020-07-21,Mpumalanga,240,,ZAF.6_1
+1537,South Africa,2020-07-22,Mpumalanga,622,,ZAF.6_1
+1538,South Africa,2020-07-23,Mpumalanga,701,,ZAF.6_1
+1539,South Africa,2020-07-24,Mpumalanga,769,,ZAF.6_1
+1540,South Africa,2020-07-25,Mpumalanga,661,,ZAF.6_1
+1541,South Africa,2020-07-26,Mpumalanga,591,,ZAF.6_1
+1542,South Africa,2020-07-27,Mpumalanga,378,,ZAF.6_1
+1543,South Africa,2020-07-28,Mpumalanga,166,,ZAF.6_1
+1544,South Africa,2020-07-29,Mpumalanga,890,,ZAF.6_1
+1545,South Africa,2020-07-30,Mpumalanga,838,,ZAF.6_1
+1546,South Africa,2020-07-31,Mpumalanga,821,,ZAF.6_1
+1547,South Africa,2020-08-01,Mpumalanga,580,,ZAF.6_1
+1548,South Africa,2020-08-02,Mpumalanga,439,,ZAF.6_1
+1549,South Africa,2020-08-03,Mpumalanga,275,,ZAF.6_1
+1550,South Africa,2020-08-04,Mpumalanga,321,,ZAF.6_1
+1551,South Africa,2020-08-05,Mpumalanga,1419,,ZAF.6_1
+1552,South Africa,2020-08-06,Mpumalanga,668,,ZAF.6_1
+1553,South Africa,2020-08-07,Mpumalanga,463,,ZAF.6_1
+1554,South Africa,2020-08-08,Mpumalanga,468,,ZAF.6_1
+1555,South Africa,2020-08-09,Mpumalanga,505,,ZAF.6_1
+1556,South Africa,2020-08-10,Mpumalanga,216,,ZAF.6_1
+1557,South Africa,2020-08-11,Mpumalanga,78,,ZAF.6_1
+1558,South Africa,2020-08-12,Mpumalanga,222,,ZAF.6_1
+1559,South Africa,2020-08-13,Mpumalanga,356,,ZAF.6_1
+1560,South Africa,2020-08-14,Mpumalanga,443,,ZAF.6_1
+1561,South Africa,2020-08-15,Mpumalanga,361,,ZAF.6_1
+1562,South Africa,2020-08-16,Mpumalanga,374,,ZAF.6_1
+1563,South Africa,2020-08-17,Mpumalanga,185,,ZAF.6_1
+1564,South Africa,2020-08-18,Mpumalanga,243,,ZAF.6_1
+1565,South Africa,2020-08-19,Mpumalanga,350,,ZAF.6_1
+1566,South Africa,2020-08-20,Mpumalanga,392,,ZAF.6_1
+1567,South Africa,2020-08-21,Mpumalanga,242,,ZAF.6_1
+1568,South Africa,2020-08-22,Mpumalanga,201,,ZAF.6_1
+1569,South Africa,2020-08-23,Mpumalanga,198,,ZAF.6_1
+1570,South Africa,2020-08-24,Mpumalanga,63,,ZAF.6_1
+1571,South Africa,2020-08-25,Mpumalanga,173,,ZAF.6_1
+1572,South Africa,2020-08-26,Mpumalanga,219,,ZAF.6_1
+1573,South Africa,2020-08-27,Mpumalanga,122,,ZAF.6_1
+1574,South Africa,2020-08-28,Mpumalanga,88,,ZAF.6_1
+1575,South Africa,2020-08-29,Mpumalanga,181,,ZAF.6_1
+1576,South Africa,2020-08-30,Mpumalanga,186,,ZAF.6_1
+1577,South Africa,2020-08-31,Mpumalanga,273,,ZAF.6_1
+1578,South Africa,2020-09-01,Mpumalanga,65,,ZAF.6_1
+1579,South Africa,2020-09-02,Mpumalanga,135,,ZAF.6_1
+1580,South Africa,2020-09-03,Mpumalanga,141,,ZAF.6_1
+1581,South Africa,2020-09-04,Mpumalanga,90,,ZAF.6_1
+1582,South Africa,2020-09-05,Mpumalanga,140,,ZAF.6_1
+1583,South Africa,2020-09-06,Mpumalanga,100,,ZAF.6_1
+1584,South Africa,2020-09-07,Mpumalanga,49,,ZAF.6_1
+1585,South Africa,2020-09-08,Mpumalanga,73,,ZAF.6_1
+1586,South Africa,2020-09-09,Mpumalanga,113,,ZAF.6_1
+1587,South Africa,2020-09-10,Mpumalanga,114,,ZAF.6_1
+1588,South Africa,2020-09-11,Mpumalanga,115,,ZAF.6_1
+1589,South Africa,2020-09-12,Mpumalanga,140,,ZAF.6_1
+1590,South Africa,2020-09-13,Mpumalanga,70,,ZAF.6_1
+1591,South Africa,2020-09-14,Mpumalanga,75,,ZAF.6_1
+1592,South Africa,2020-09-15,Mpumalanga,35,,ZAF.6_1
+1593,South Africa,2020-09-16,Mpumalanga,126,,ZAF.6_1
+1594,South Africa,2020-09-17,Mpumalanga,118,,ZAF.6_1
+1595,South Africa,2020-09-18,Mpumalanga,158,,ZAF.6_1
+1596,South Africa,2020-09-19,Mpumalanga,127,,ZAF.6_1
+1597,South Africa,2020-09-20,Mpumalanga,90,,ZAF.6_1
+1598,South Africa,2020-09-21,Mpumalanga,46,,ZAF.6_1
+1599,South Africa,2020-09-22,Mpumalanga,87,,ZAF.6_1
+1600,South Africa,2020-09-23,Mpumalanga,100,,ZAF.6_1
+1601,South Africa,2020-09-24,Mpumalanga,130,,ZAF.6_1
+1602,South Africa,2020-09-25,Mpumalanga,72,,ZAF.6_1
+1603,South Africa,2020-09-26,Mpumalanga,20,,ZAF.6_1
+1604,South Africa,2020-09-27,Mpumalanga,87,,ZAF.6_1
+1605,South Africa,2020-09-28,Mpumalanga,48,,ZAF.6_1
+1606,South Africa,2020-09-29,Mpumalanga,94,,ZAF.6_1
+1607,South Africa,2020-09-30,Mpumalanga,104,,ZAF.6_1
+1608,South Africa,2020-03-05,Northern Cape,0,,ZAF.8_1
+1609,South Africa,2020-03-07,Northern Cape,0,,ZAF.8_1
+1610,South Africa,2020-03-08,Northern Cape,0,,ZAF.8_1
+1611,South Africa,2020-03-09,Northern Cape,0,,ZAF.8_1
+1612,South Africa,2020-03-11,Northern Cape,0,,ZAF.8_1
+1613,South Africa,2020-03-12,Northern Cape,0,,ZAF.8_1
+1614,South Africa,2020-03-13,Northern Cape,0,,ZAF.8_1
+1615,South Africa,2020-03-14,Northern Cape,0,,ZAF.8_1
+1616,South Africa,2020-03-15,Northern Cape,0,,ZAF.8_1
+1617,South Africa,2020-03-16,Northern Cape,0,,ZAF.8_1
+1618,South Africa,2020-03-17,Northern Cape,0,,ZAF.8_1
+1619,South Africa,2020-03-18,Northern Cape,0,,ZAF.8_1
+1620,South Africa,2020-03-19,Northern Cape,0,,ZAF.8_1
+1621,South Africa,2020-03-20,Northern Cape,0,,ZAF.8_1
+1622,South Africa,2020-03-21,Northern Cape,0,,ZAF.8_1
+1623,South Africa,2020-03-22,Northern Cape,0,,ZAF.8_1
+1624,South Africa,2020-03-23,Northern Cape,2,,ZAF.8_1
+1625,South Africa,2020-03-24,Northern Cape,0,,ZAF.8_1
+1626,South Africa,2020-03-25,Northern Cape,0,,ZAF.8_1
+1627,South Africa,2020-03-26,Northern Cape,0,,ZAF.8_1
+1628,South Africa,2020-03-28,Northern Cape,3,,ZAF.8_1
+1629,South Africa,2020-03-29,Northern Cape,1,,ZAF.8_1
+1630,South Africa,2020-03-30,Northern Cape,-3,,ZAF.8_1
+1631,South Africa,2020-03-31,Northern Cape,3,,ZAF.8_1
+1632,South Africa,2020-04-01,Northern Cape,1,,ZAF.8_1
+1633,South Africa,2020-04-02,Northern Cape,0,,ZAF.8_1
+1634,South Africa,2020-04-03,Northern Cape,0,,ZAF.8_1
+1635,South Africa,2020-04-04,Northern Cape,0,,ZAF.8_1
+1636,South Africa,2020-04-05,Northern Cape,1,,ZAF.8_1
+1637,South Africa,2020-04-06,Northern Cape,0,,ZAF.8_1
+1638,South Africa,2020-04-08,Northern Cape,5,,ZAF.8_1
+1639,South Africa,2020-04-09,Northern Cape,2,,ZAF.8_1
+1640,South Africa,2020-04-10,Northern Cape,0,,ZAF.8_1
+1641,South Africa,2020-04-11,Northern Cape,1,,ZAF.8_1
+1642,South Africa,2020-04-12,Northern Cape,0,,ZAF.8_1
+1643,South Africa,2020-04-13,Northern Cape,0,,ZAF.8_1
+1644,South Africa,2020-04-14,Northern Cape,0,,ZAF.8_1
+1645,South Africa,2020-04-15,Northern Cape,0,,ZAF.8_1
+1646,South Africa,2020-04-16,Northern Cape,0,,ZAF.8_1
+1647,South Africa,2020-04-17,Northern Cape,0,,ZAF.8_1
+1648,South Africa,2020-04-18,Northern Cape,0,,ZAF.8_1
+1649,South Africa,2020-04-19,Northern Cape,0,,ZAF.8_1
+1650,South Africa,2020-04-20,Northern Cape,2,,ZAF.8_1
+1651,South Africa,2020-04-21,Northern Cape,-2,,ZAF.8_1
+1652,South Africa,2020-04-22,Northern Cape,0,,ZAF.8_1
+1653,South Africa,2020-04-23,Northern Cape,0,,ZAF.8_1
+1654,South Africa,2020-04-24,Northern Cape,0,,ZAF.8_1
+1655,South Africa,2020-04-25,Northern Cape,0,,ZAF.8_1
+1656,South Africa,2020-04-26,Northern Cape,1,,ZAF.8_1
+1657,South Africa,2020-04-27,Northern Cape,0,,ZAF.8_1
+1658,South Africa,2020-04-28,Northern Cape,0,,ZAF.8_1
+1659,South Africa,2020-04-29,Northern Cape,0,,ZAF.8_1
+1660,South Africa,2020-04-30,Northern Cape,0,,ZAF.8_1
+1661,South Africa,2020-05-01,Northern Cape,1,,ZAF.8_1
+1662,South Africa,2020-05-02,Northern Cape,5,,ZAF.8_1
+1663,South Africa,2020-05-03,Northern Cape,1,,ZAF.8_1
+1664,South Africa,2020-05-04,Northern Cape,1,,ZAF.8_1
+1665,South Africa,2020-05-05,Northern Cape,1,,ZAF.8_1
+1666,South Africa,2020-05-06,Northern Cape,0,,ZAF.8_1
+1667,South Africa,2020-05-07,Northern Cape,1,,ZAF.8_1
+1668,South Africa,2020-05-08,Northern Cape,0,,ZAF.8_1
+1669,South Africa,2020-05-09,Northern Cape,1,,ZAF.8_1
+1670,South Africa,2020-05-10,Northern Cape,1,,ZAF.8_1
+1671,South Africa,2020-05-11,Northern Cape,1,,ZAF.8_1
+1672,South Africa,2020-05-12,Northern Cape,0,,ZAF.8_1
+1673,South Africa,2020-05-13,Northern Cape,0,,ZAF.8_1
+1674,South Africa,2020-05-14,Northern Cape,1,,ZAF.8_1
+1675,South Africa,2020-05-15,Northern Cape,3,,ZAF.8_1
+1676,South Africa,2020-05-16,Northern Cape,1,,ZAF.8_1
+1677,South Africa,2020-05-17,Northern Cape,2,,ZAF.8_1
+1678,South Africa,2020-05-18,Northern Cape,0,,ZAF.8_1
+1679,South Africa,2020-05-19,Northern Cape,0,,ZAF.8_1
+1680,South Africa,2020-05-20,Northern Cape,1,,ZAF.8_1
+1681,South Africa,2020-05-21,Northern Cape,-1,,ZAF.8_1
+1682,South Africa,2020-05-22,Northern Cape,2,,ZAF.8_1
+1683,South Africa,2020-05-23,Northern Cape,1,,ZAF.8_1
+1684,South Africa,2020-05-24,Northern Cape,0,,ZAF.8_1
+1685,South Africa,2020-05-25,Northern Cape,5,,ZAF.8_1
+1686,South Africa,2020-05-26,Northern Cape,0,,ZAF.8_1
+1687,South Africa,2020-05-27,Northern Cape,3,,ZAF.8_1
+1688,South Africa,2020-05-28,Northern Cape,3,,ZAF.8_1
+1689,South Africa,2020-05-29,Northern Cape,1,,ZAF.8_1
+1690,South Africa,2020-05-30,Northern Cape,5,,ZAF.8_1
+1691,South Africa,2020-05-31,Northern Cape,12,,ZAF.8_1
+1692,South Africa,2020-06-01,Northern Cape,13,,ZAF.8_1
+1693,South Africa,2020-06-02,Northern Cape,9,,ZAF.8_1
+1694,South Africa,2020-06-03,Northern Cape,2,,ZAF.8_1
+1695,South Africa,2020-06-04,Northern Cape,2,,ZAF.8_1
+1696,South Africa,2020-06-05,Northern Cape,7,,ZAF.8_1
+1697,South Africa,2020-06-06,Northern Cape,3,,ZAF.8_1
+1698,South Africa,2020-06-07,Northern Cape,9,,ZAF.8_1
+1699,South Africa,2020-06-08,Northern Cape,4,,ZAF.8_1
+1700,South Africa,2020-06-09,Northern Cape,4,,ZAF.8_1
+1701,South Africa,2020-06-10,Northern Cape,3,,ZAF.8_1
+1702,South Africa,2020-06-11,Northern Cape,7,,ZAF.8_1
+1703,South Africa,2020-06-12,Northern Cape,6,,ZAF.8_1
+1704,South Africa,2020-06-13,Northern Cape,6,,ZAF.8_1
+1705,South Africa,2020-06-14,Northern Cape,12,,ZAF.8_1
+1706,South Africa,2020-06-15,Northern Cape,49,,ZAF.8_1
+1707,South Africa,2020-06-16,Northern Cape,6,,ZAF.8_1
+1708,South Africa,2020-06-17,Northern Cape,0,,ZAF.8_1
+1709,South Africa,2020-06-18,Northern Cape,3,,ZAF.8_1
+1710,South Africa,2020-06-19,Northern Cape,4,,ZAF.8_1
+1711,South Africa,2020-06-20,Northern Cape,14,,ZAF.8_1
+1712,South Africa,2020-06-21,Northern Cape,5,,ZAF.8_1
+1713,South Africa,2020-06-22,Northern Cape,17,,ZAF.8_1
+1714,South Africa,2020-06-23,Northern Cape,16,,ZAF.8_1
+1715,South Africa,2020-06-24,Northern Cape,29,,ZAF.8_1
+1716,South Africa,2020-06-25,Northern Cape,19,,ZAF.8_1
+1717,South Africa,2020-06-26,Northern Cape,19,,ZAF.8_1
+1718,South Africa,2020-06-27,Northern Cape,18,,ZAF.8_1
+1719,South Africa,2020-06-28,Northern Cape,30,,ZAF.8_1
+1720,South Africa,2020-06-29,Northern Cape,19,,ZAF.8_1
+1721,South Africa,2020-06-30,Northern Cape,61,,ZAF.8_1
+1722,South Africa,2020-07-01,Northern Cape,29,,ZAF.8_1
+1723,South Africa,2020-07-02,Northern Cape,79,,ZAF.8_1
+1724,South Africa,2020-07-03,Northern Cape,53,,ZAF.8_1
+1725,South Africa,2020-07-04,Northern Cape,60,,ZAF.8_1
+1726,South Africa,2020-07-05,Northern Cape,48,,ZAF.8_1
+1727,South Africa,2020-07-06,Northern Cape,86,,ZAF.8_1
+1728,South Africa,2020-07-07,Northern Cape,68,,ZAF.8_1
+1729,South Africa,2020-07-08,Northern Cape,86,,ZAF.8_1
+1730,South Africa,2020-07-09,Northern Cape,65,,ZAF.8_1
+1731,South Africa,2020-07-10,Northern Cape,129,,ZAF.8_1
+1732,South Africa,2020-07-11,Northern Cape,98,,ZAF.8_1
+1733,South Africa,2020-07-12,Northern Cape,135,,ZAF.8_1
+1734,South Africa,2020-07-13,Northern Cape,121,,ZAF.8_1
+1735,South Africa,2020-07-14,Northern Cape,57,,ZAF.8_1
+1736,South Africa,2020-07-15,Northern Cape,88,,ZAF.8_1
+1737,South Africa,2020-07-16,Northern Cape,164,,ZAF.8_1
+1738,South Africa,2020-07-17,Northern Cape,213,,ZAF.8_1
+1739,South Africa,2020-07-18,Northern Cape,153,,ZAF.8_1
+1740,South Africa,2020-07-19,Northern Cape,69,,ZAF.8_1
+1741,South Africa,2020-07-20,Northern Cape,85,,ZAF.8_1
+1742,South Africa,2020-07-21,Northern Cape,188,,ZAF.8_1
+1743,South Africa,2020-07-22,Northern Cape,188,,ZAF.8_1
+1744,South Africa,2020-07-23,Northern Cape,243,,ZAF.8_1
+1745,South Africa,2020-07-24,Northern Cape,205,,ZAF.8_1
+1746,South Africa,2020-07-25,Northern Cape,214,,ZAF.8_1
+1747,South Africa,2020-07-26,Northern Cape,211,,ZAF.8_1
+1748,South Africa,2020-07-27,Northern Cape,275,,ZAF.8_1
+1749,South Africa,2020-07-28,Northern Cape,122,,ZAF.8_1
+1750,South Africa,2020-07-29,Northern Cape,138,,ZAF.8_1
+1751,South Africa,2020-07-30,Northern Cape,267,,ZAF.8_1
+1752,South Africa,2020-07-31,Northern Cape,339,,ZAF.8_1
+1753,South Africa,2020-08-01,Northern Cape,220,,ZAF.8_1
+1754,South Africa,2020-08-02,Northern Cape,170,,ZAF.8_1
+1755,South Africa,2020-08-03,Northern Cape,171,,ZAF.8_1
+1756,South Africa,2020-08-04,Northern Cape,77,,ZAF.8_1
+1757,South Africa,2020-08-05,Northern Cape,259,,ZAF.8_1
+1758,South Africa,2020-08-06,Northern Cape,294,,ZAF.8_1
+1759,South Africa,2020-08-07,Northern Cape,253,,ZAF.8_1
+1760,South Africa,2020-08-08,Northern Cape,181,,ZAF.8_1
+1761,South Africa,2020-08-09,Northern Cape,255,,ZAF.8_1
+1762,South Africa,2020-08-10,Northern Cape,181,,ZAF.8_1
+1763,South Africa,2020-08-11,Northern Cape,59,,ZAF.8_1
+1764,South Africa,2020-08-12,Northern Cape,96,,ZAF.8_1
+1765,South Africa,2020-08-13,Northern Cape,165,,ZAF.8_1
+1766,South Africa,2020-08-14,Northern Cape,321,,ZAF.8_1
+1767,South Africa,2020-08-15,Northern Cape,292,,ZAF.8_1
+1768,South Africa,2020-08-16,Northern Cape,105,,ZAF.8_1
+1769,South Africa,2020-08-17,Northern Cape,181,,ZAF.8_1
+1770,South Africa,2020-08-18,Northern Cape,108,,ZAF.8_1
+1771,South Africa,2020-08-19,Northern Cape,212,,ZAF.8_1
+1772,South Africa,2020-08-20,Northern Cape,234,,ZAF.8_1
+1773,South Africa,2020-08-21,Northern Cape,243,,ZAF.8_1
+1774,South Africa,2020-08-22,Northern Cape,178,,ZAF.8_1
+1775,South Africa,2020-08-23,Northern Cape,133,,ZAF.8_1
+1776,South Africa,2020-08-24,Northern Cape,193,,ZAF.8_1
+1777,South Africa,2020-08-25,Northern Cape,53,,ZAF.8_1
+1778,South Africa,2020-08-26,Northern Cape,125,,ZAF.8_1
+1779,South Africa,2020-08-27,Northern Cape,329,,ZAF.8_1
+1780,South Africa,2020-08-28,Northern Cape,214,,ZAF.8_1
+1781,South Africa,2020-08-29,Northern Cape,241,,ZAF.8_1
+1782,South Africa,2020-08-30,Northern Cape,284,,ZAF.8_1
+1783,South Africa,2020-08-31,Northern Cape,158,,ZAF.8_1
+1784,South Africa,2020-09-01,Northern Cape,111,,ZAF.8_1
+1785,South Africa,2020-09-02,Northern Cape,183,,ZAF.8_1
+1786,South Africa,2020-09-03,Northern Cape,293,,ZAF.8_1
+1787,South Africa,2020-09-04,Northern Cape,208,,ZAF.8_1
+1788,South Africa,2020-09-05,Northern Cape,197,,ZAF.8_1
+1789,South Africa,2020-09-06,Northern Cape,205,,ZAF.8_1
+1790,South Africa,2020-09-07,Northern Cape,162,,ZAF.8_1
+1791,South Africa,2020-09-08,Northern Cape,137,,ZAF.8_1
+1792,South Africa,2020-09-09,Northern Cape,185,,ZAF.8_1
+1793,South Africa,2020-09-10,Northern Cape,223,,ZAF.8_1
+1794,South Africa,2020-09-11,Northern Cape,289,,ZAF.8_1
+1795,South Africa,2020-09-12,Northern Cape,204,,ZAF.8_1
+1796,South Africa,2020-09-13,Northern Cape,268,,ZAF.8_1
+1797,South Africa,2020-09-14,Northern Cape,173,,ZAF.8_1
+1798,South Africa,2020-09-15,Northern Cape,52,,ZAF.8_1
+1799,South Africa,2020-09-16,Northern Cape,111,,ZAF.8_1
+1800,South Africa,2020-09-17,Northern Cape,276,,ZAF.8_1
+1801,South Africa,2020-09-18,Northern Cape,373,,ZAF.8_1
+1802,South Africa,2020-09-19,Northern Cape,355,,ZAF.8_1
+1803,South Africa,2020-09-20,Northern Cape,306,,ZAF.8_1
+1804,South Africa,2020-09-21,Northern Cape,126,,ZAF.8_1
+1805,South Africa,2020-09-22,Northern Cape,117,,ZAF.8_1
+1806,South Africa,2020-09-23,Northern Cape,280,,ZAF.8_1
+1807,South Africa,2020-09-24,Northern Cape,185,,ZAF.8_1
+1808,South Africa,2020-09-25,Northern Cape,201,,ZAF.8_1
+1809,South Africa,2020-09-26,Northern Cape,119,,ZAF.8_1
+1810,South Africa,2020-09-27,Northern Cape,178,,ZAF.8_1
+1811,South Africa,2020-09-28,Northern Cape,154,,ZAF.8_1
+1812,South Africa,2020-09-29,Northern Cape,72,,ZAF.8_1
+1813,South Africa,2020-09-30,Northern Cape,192,,ZAF.8_1
+1814,South Africa,2020-03-05,North West,0,,ZAF.7_1
+1815,South Africa,2020-03-07,North West,0,,ZAF.7_1
+1816,South Africa,2020-03-08,North West,0,,ZAF.7_1
+1817,South Africa,2020-03-09,North West,0,,ZAF.7_1
+1818,South Africa,2020-03-11,North West,0,,ZAF.7_1
+1819,South Africa,2020-03-12,North West,0,,ZAF.7_1
+1820,South Africa,2020-03-13,North West,0,,ZAF.7_1
+1821,South Africa,2020-03-14,North West,0,,ZAF.7_1
+1822,South Africa,2020-03-15,North West,0,,ZAF.7_1
+1823,South Africa,2020-03-16,North West,0,,ZAF.7_1
+1824,South Africa,2020-03-17,North West,0,,ZAF.7_1
+1825,South Africa,2020-03-18,North West,0,,ZAF.7_1
+1826,South Africa,2020-03-19,North West,0,,ZAF.7_1
+1827,South Africa,2020-03-20,North West,0,,ZAF.7_1
+1828,South Africa,2020-03-21,North West,0,,ZAF.7_1
+1829,South Africa,2020-03-22,North West,0,,ZAF.7_1
+1830,South Africa,2020-03-23,North West,4,,ZAF.7_1
+1831,South Africa,2020-03-24,North West,1,,ZAF.7_1
+1832,South Africa,2020-03-25,North West,0,,ZAF.7_1
+1833,South Africa,2020-03-26,North West,0,,ZAF.7_1
+1834,South Africa,2020-03-28,North West,1,,ZAF.7_1
+1835,South Africa,2020-03-29,North West,0,,ZAF.7_1
+1836,South Africa,2020-03-30,North West,2,,ZAF.7_1
+1837,South Africa,2020-03-31,North West,0,,ZAF.7_1
+1838,South Africa,2020-04-01,North West,1,,ZAF.7_1
+1839,South Africa,2020-04-02,North West,0,,ZAF.7_1
+1840,South Africa,2020-04-03,North West,0,,ZAF.7_1
+1841,South Africa,2020-04-04,North West,2,,ZAF.7_1
+1842,South Africa,2020-04-05,North West,0,,ZAF.7_1
+1843,South Africa,2020-04-06,North West,0,,ZAF.7_1
+1844,South Africa,2020-04-08,North West,4,,ZAF.7_1
+1845,South Africa,2020-04-09,North West,0,,ZAF.7_1
+1846,South Africa,2020-04-10,North West,3,,ZAF.7_1
+1847,South Africa,2020-04-11,North West,1,,ZAF.7_1
+1848,South Africa,2020-04-12,North West,0,,ZAF.7_1
+1849,South Africa,2020-04-13,North West,3,,ZAF.7_1
+1850,South Africa,2020-04-14,North West,0,,ZAF.7_1
+1851,South Africa,2020-04-15,North West,1,,ZAF.7_1
+1852,South Africa,2020-04-16,North West,1,,ZAF.7_1
+1853,South Africa,2020-04-17,North West,0,,ZAF.7_1
+1854,South Africa,2020-04-18,North West,0,,ZAF.7_1
+1855,South Africa,2020-04-19,North West,0,,ZAF.7_1
+1856,South Africa,2020-04-20,North West,1,,ZAF.7_1
+1857,South Africa,2020-04-21,North West,-1,,ZAF.7_1
+1858,South Africa,2020-04-22,North West,0,,ZAF.7_1
+1859,South Africa,2020-04-23,North West,1,,ZAF.7_1
+1860,South Africa,2020-04-24,North West,0,,ZAF.7_1
+1861,South Africa,2020-04-25,North West,3,,ZAF.7_1
+1862,South Africa,2020-04-26,North West,0,,ZAF.7_1
+1863,South Africa,2020-04-27,North West,3,,ZAF.7_1
+1864,South Africa,2020-04-28,North West,-2,,ZAF.7_1
+1865,South Africa,2020-04-29,North West,0,,ZAF.7_1
+1866,South Africa,2020-04-30,North West,2,,ZAF.7_1
+1867,South Africa,2020-05-01,North West,4,,ZAF.7_1
+1868,South Africa,2020-05-02,North West,0,,ZAF.7_1
+1869,South Africa,2020-05-03,North West,1,,ZAF.7_1
+1870,South Africa,2020-05-04,North West,-1,,ZAF.7_1
+1871,South Africa,2020-05-05,North West,0,,ZAF.7_1
+1872,South Africa,2020-05-06,North West,2,,ZAF.7_1
+1873,South Africa,2020-05-07,North West,3,,ZAF.7_1
+1874,South Africa,2020-05-08,North West,2,,ZAF.7_1
+1875,South Africa,2020-05-09,North West,-1,,ZAF.7_1
+1876,South Africa,2020-05-10,North West,4,,ZAF.7_1
+1877,South Africa,2020-05-11,North West,5,,ZAF.7_1
+1878,South Africa,2020-05-12,North West,1,,ZAF.7_1
+1879,South Africa,2020-05-13,North West,1,,ZAF.7_1
+1880,South Africa,2020-05-14,North West,6,,ZAF.7_1
+1881,South Africa,2020-05-15,North West,5,,ZAF.7_1
+1882,South Africa,2020-05-16,North West,1,,ZAF.7_1
+1883,South Africa,2020-05-17,North West,6,,ZAF.7_1
+1884,South Africa,2020-05-18,North West,2,,ZAF.7_1
+1885,South Africa,2020-05-19,North West,0,,ZAF.7_1
+1886,South Africa,2020-05-20,North West,0,,ZAF.7_1
+1887,South Africa,2020-05-21,North West,5,,ZAF.7_1
+1888,South Africa,2020-05-22,North West,3,,ZAF.7_1
+1889,South Africa,2020-05-23,North West,1,,ZAF.7_1
+1890,South Africa,2020-05-24,North West,13,,ZAF.7_1
+1891,South Africa,2020-05-25,North West,15,,ZAF.7_1
+1892,South Africa,2020-05-26,North West,6,,ZAF.7_1
+1893,South Africa,2020-05-27,North West,13,,ZAF.7_1
+1894,South Africa,2020-05-28,North West,6,,ZAF.7_1
+1895,South Africa,2020-05-29,North West,9,,ZAF.7_1
+1896,South Africa,2020-05-30,North West,19,,ZAF.7_1
+1897,South Africa,2020-05-31,North West,13,,ZAF.7_1
+1898,South Africa,2020-06-01,North West,12,,ZAF.7_1
+1899,South Africa,2020-06-02,North West,84,,ZAF.7_1
+1900,South Africa,2020-06-03,North West,43,,ZAF.7_1
+1901,South Africa,2020-06-04,North West,50,,ZAF.7_1
+1902,South Africa,2020-06-05,North West,45,,ZAF.7_1
+1903,South Africa,2020-06-06,North West,59,,ZAF.7_1
+1904,South Africa,2020-06-07,North West,55,,ZAF.7_1
+1905,South Africa,2020-06-08,North West,57,,ZAF.7_1
+1906,South Africa,2020-06-09,North West,24,,ZAF.7_1
+1907,South Africa,2020-06-10,North West,53,,ZAF.7_1
+1908,South Africa,2020-06-11,North West,100,,ZAF.7_1
+1909,South Africa,2020-06-12,North West,108,,ZAF.7_1
+1910,South Africa,2020-06-13,North West,112,,ZAF.7_1
+1911,South Africa,2020-06-14,North West,120,,ZAF.7_1
+1912,South Africa,2020-06-15,North West,80,,ZAF.7_1
+1913,South Africa,2020-06-16,North West,104,,ZAF.7_1
+1914,South Africa,2020-06-17,North West,121,,ZAF.7_1
+1915,South Africa,2020-06-18,North West,204,,ZAF.7_1
+1916,South Africa,2020-06-19,North West,152,,ZAF.7_1
+1917,South Africa,2020-06-20,North West,199,,ZAF.7_1
+1918,South Africa,2020-06-21,North West,191,,ZAF.7_1
+1919,South Africa,2020-06-22,North West,167,,ZAF.7_1
+1920,South Africa,2020-06-23,North West,139,,ZAF.7_1
+1921,South Africa,2020-06-24,North West,164,,ZAF.7_1
+1922,South Africa,2020-06-25,North West,347,,ZAF.7_1
+1923,South Africa,2020-06-26,North West,253,,ZAF.7_1
+1924,South Africa,2020-06-27,North West,236,,ZAF.7_1
+1925,South Africa,2020-06-28,North West,193,,ZAF.7_1
+1926,South Africa,2020-06-29,North West,284,,ZAF.7_1
+1927,South Africa,2020-06-30,North West,256,,ZAF.7_1
+1928,South Africa,2020-07-01,North West,206,,ZAF.7_1
+1929,South Africa,2020-07-02,North West,395,,ZAF.7_1
+1930,South Africa,2020-07-03,North West,380,,ZAF.7_1
+1931,South Africa,2020-07-04,North West,476,,ZAF.7_1
+1932,South Africa,2020-07-05,North West,419,,ZAF.7_1
+1933,South Africa,2020-07-06,North West,347,,ZAF.7_1
+1934,South Africa,2020-07-07,North West,432,,ZAF.7_1
+1935,South Africa,2020-07-08,North West,305,,ZAF.7_1
+1936,South Africa,2020-07-09,North West,723,,ZAF.7_1
+1937,South Africa,2020-07-10,North West,806,,ZAF.7_1
+1938,South Africa,2020-07-11,North West,742,,ZAF.7_1
+1939,South Africa,2020-07-12,North West,506,,ZAF.7_1
+1940,South Africa,2020-07-13,North West,601,,ZAF.7_1
+1941,South Africa,2020-07-14,North West,259,,ZAF.7_1
+1942,South Africa,2020-07-15,North West,441,,ZAF.7_1
+1943,South Africa,2020-07-16,North West,666,,ZAF.7_1
+1944,South Africa,2020-07-17,North West,831,,ZAF.7_1
+1945,South Africa,2020-07-18,North West,678,,ZAF.7_1
+1946,South Africa,2020-07-19,North West,606,,ZAF.7_1
+1947,South Africa,2020-07-20,North West,331,,ZAF.7_1
+1948,South Africa,2020-07-21,North West,297,,ZAF.7_1
+1949,South Africa,2020-07-22,North West,439,,ZAF.7_1
+1950,South Africa,2020-07-23,North West,828,,ZAF.7_1
+1951,South Africa,2020-07-24,North West,647,,ZAF.7_1
+1952,South Africa,2020-07-25,North West,394,,ZAF.7_1
+1953,South Africa,2020-07-26,North West,396,,ZAF.7_1
+1954,South Africa,2020-07-27,North West,266,,ZAF.7_1
+1955,South Africa,2020-07-28,North West,187,,ZAF.7_1
+1956,South Africa,2020-07-29,North West,440,,ZAF.7_1
+1957,South Africa,2020-07-30,North West,580,,ZAF.7_1
+1958,South Africa,2020-07-31,North West,514,,ZAF.7_1
+1959,South Africa,2020-08-01,North West,389,,ZAF.7_1
+1960,South Africa,2020-08-02,North West,247,,ZAF.7_1
+1961,South Africa,2020-08-03,North West,188,,ZAF.7_1
+1962,South Africa,2020-08-04,North West,121,,ZAF.7_1
+1963,South Africa,2020-08-05,North West,416,,ZAF.7_1
+1964,South Africa,2020-08-06,North West,358,,ZAF.7_1
+1965,South Africa,2020-08-07,North West,271,,ZAF.7_1
+1966,South Africa,2020-08-08,North West,327,,ZAF.7_1
+1967,South Africa,2020-08-09,North West,195,,ZAF.7_1
+1968,South Africa,2020-08-10,North West,96,,ZAF.7_1
+1969,South Africa,2020-08-11,North West,98,,ZAF.7_1
+1970,South Africa,2020-08-12,North West,174,,ZAF.7_1
+1971,South Africa,2020-08-13,North West,278,,ZAF.7_1
+1972,South Africa,2020-08-14,North West,333,,ZAF.7_1
+1973,South Africa,2020-08-15,North West,277,,ZAF.7_1
+1974,South Africa,2020-08-16,North West,157,,ZAF.7_1
+1975,South Africa,2020-08-17,North West,55,,ZAF.7_1
+1976,South Africa,2020-08-18,North West,140,,ZAF.7_1
+1977,South Africa,2020-08-19,North West,196,,ZAF.7_1
+1978,South Africa,2020-08-20,North West,227,,ZAF.7_1
+1979,South Africa,2020-08-21,North West,135,,ZAF.7_1
+1980,South Africa,2020-08-22,North West,182,,ZAF.7_1
+1981,South Africa,2020-08-23,North West,116,,ZAF.7_1
+1982,South Africa,2020-08-24,North West,70,,ZAF.7_1
+1983,South Africa,2020-08-25,North West,74,,ZAF.7_1
+1984,South Africa,2020-08-26,North West,201,,ZAF.7_1
+1985,South Africa,2020-08-27,North West,159,,ZAF.7_1
+1986,South Africa,2020-08-28,North West,117,,ZAF.7_1
+1987,South Africa,2020-08-29,North West,164,,ZAF.7_1
+1988,South Africa,2020-08-30,North West,154,,ZAF.7_1
+1989,South Africa,2020-08-31,North West,108,,ZAF.7_1
+1990,South Africa,2020-09-01,North West,42,,ZAF.7_1
+1991,South Africa,2020-09-02,North West,214,,ZAF.7_1
+1992,South Africa,2020-09-03,North West,212,,ZAF.7_1
+1993,South Africa,2020-09-04,North West,149,,ZAF.7_1
+1994,South Africa,2020-09-05,North West,127,,ZAF.7_1
+1995,South Africa,2020-09-06,North West,153,,ZAF.7_1
+1996,South Africa,2020-09-07,North West,49,,ZAF.7_1
+1997,South Africa,2020-09-08,North West,105,,ZAF.7_1
+1998,South Africa,2020-09-09,North West,181,,ZAF.7_1
+1999,South Africa,2020-09-10,North West,187,,ZAF.7_1
+2000,South Africa,2020-09-11,North West,168,,ZAF.7_1
+2001,South Africa,2020-09-12,North West,159,,ZAF.7_1
+2002,South Africa,2020-09-13,North West,125,,ZAF.7_1
+2003,South Africa,2020-09-14,North West,43,,ZAF.7_1
+2004,South Africa,2020-09-15,North West,59,,ZAF.7_1
+2005,South Africa,2020-09-16,North West,206,,ZAF.7_1
+2006,South Africa,2020-09-17,North West,194,,ZAF.7_1
+2007,South Africa,2020-09-18,North West,135,,ZAF.7_1
+2008,South Africa,2020-09-19,North West,169,,ZAF.7_1
+2009,South Africa,2020-09-20,North West,146,,ZAF.7_1
+2010,South Africa,2020-09-21,North West,16,,ZAF.7_1
+2011,South Africa,2020-09-22,North West,144,,ZAF.7_1
+2012,South Africa,2020-09-23,North West,197,,ZAF.7_1
+2013,South Africa,2020-09-24,North West,160,,ZAF.7_1
+2014,South Africa,2020-09-25,North West,121,,ZAF.7_1
+2015,South Africa,2020-09-26,North West,82,,ZAF.7_1
+2016,South Africa,2020-09-27,North West,121,,ZAF.7_1
+2017,South Africa,2020-09-28,North West,66,,ZAF.7_1
+2018,South Africa,2020-09-29,North West,82,,ZAF.7_1
+2019,South Africa,2020-09-30,North West,158,,ZAF.7_1
+2020,South Africa,2020-03-05,Western Cape,0,,ZAF.9_1
+2021,South Africa,2020-03-07,Western Cape,0,,ZAF.9_1
+2022,South Africa,2020-03-08,Western Cape,0,,ZAF.9_1
+2023,South Africa,2020-03-09,Western Cape,0,,ZAF.9_1
+2024,South Africa,2020-03-11,Western Cape,1,,ZAF.9_1
+2025,South Africa,2020-03-12,Western Cape,0,,ZAF.9_1
+2026,South Africa,2020-03-13,Western Cape,2,,ZAF.9_1
+2027,South Africa,2020-03-14,Western Cape,6,,ZAF.9_1
+2028,South Africa,2020-03-15,Western Cape,5,,ZAF.9_1
+2029,South Africa,2020-03-16,Western Cape,2,,ZAF.9_1
+2030,South Africa,2020-03-17,Western Cape,5,,ZAF.9_1
+2031,South Africa,2020-03-18,Western Cape,10,,ZAF.9_1
+2032,South Africa,2020-03-19,Western Cape,15,,ZAF.9_1
+2033,South Africa,2020-03-20,Western Cape,11,,ZAF.9_1
+2034,South Africa,2020-03-21,Western Cape,18,,ZAF.9_1
+2035,South Africa,2020-03-22,Western Cape,14,,ZAF.9_1
+2036,South Africa,2020-03-23,Western Cape,11,,ZAF.9_1
+2037,South Africa,2020-03-24,Western Cape,13,,ZAF.9_1
+2038,South Africa,2020-03-25,Western Cape,70,,ZAF.9_1
+2039,South Africa,2020-03-26,Western Cape,46,,ZAF.9_1
+2040,South Africa,2020-03-28,Western Cape,42,,ZAF.9_1
+2041,South Africa,2020-03-29,Western Cape,39,,ZAF.9_1
+2042,South Africa,2020-03-30,Western Cape,14,,ZAF.9_1
+2043,South Africa,2020-03-31,Western Cape,1,,ZAF.9_1
+2044,South Africa,2020-04-01,Western Cape,1,,ZAF.9_1
+2045,South Africa,2020-04-02,Western Cape,27,,ZAF.9_1
+2046,South Africa,2020-04-03,Western Cape,21,,ZAF.9_1
+2047,South Africa,2020-04-04,Western Cape,59,,ZAF.9_1
+2048,South Africa,2020-04-05,Western Cape,21,,ZAF.9_1
+2049,South Africa,2020-04-06,Western Cape,8,,ZAF.9_1
+2050,South Africa,2020-04-08,Western Cape,33,,ZAF.9_1
+2051,South Africa,2020-04-09,Western Cape,20,,ZAF.9_1
+2052,South Africa,2020-04-10,Western Cape,26,,ZAF.9_1
+2053,South Africa,2020-04-11,Western Cape,5,,ZAF.9_1
+2054,South Africa,2020-04-12,Western Cape,41,,ZAF.9_1
+2055,South Africa,2020-04-13,Western Cape,30,,ZAF.9_1
+2056,South Africa,2020-04-14,Western Cape,26,,ZAF.9_1
+2057,South Africa,2020-04-15,Western Cape,14,,ZAF.9_1
+2058,South Africa,2020-04-16,Western Cape,18,,ZAF.9_1
+2059,South Africa,2020-04-17,Western Cape,42,,ZAF.9_1
+2060,South Africa,2020-04-18,Western Cape,119,,ZAF.9_1
+2061,South Africa,2020-04-19,Western Cape,32,,ZAF.9_1
+2062,South Africa,2020-04-20,Western Cape,72,,ZAF.9_1
+2063,South Africa,2020-04-21,Western Cape,70,,ZAF.9_1
+2064,South Africa,2020-04-22,Western Cape,69,,ZAF.9_1
+2065,South Africa,2020-04-23,Western Cape,200,,ZAF.9_1
+2066,South Africa,2020-04-24,Western Cape,134,,ZAF.9_1
+2067,South Africa,2020-04-25,Western Cape,101,,ZAF.9_1
+2068,South Africa,2020-04-26,Western Cape,94,,ZAF.9_1
+2069,South Africa,2020-04-27,Western Cape,129,,ZAF.9_1
+2070,South Africa,2020-04-28,Western Cape,133,,ZAF.9_1
+2071,South Africa,2020-04-29,Western Cape,265,,ZAF.9_1
+2072,South Africa,2020-04-30,Western Cape,207,,ZAF.9_1
+2073,South Africa,2020-05-01,Western Cape,165,,ZAF.9_1
+2074,South Africa,2020-05-02,Western Cape,193,,ZAF.9_1
+2075,South Africa,2020-05-03,Western Cape,344,,ZAF.9_1
+2076,South Africa,2020-05-04,Western Cape,318,,ZAF.9_1
+2077,South Africa,2020-05-05,Western Cape,247,,ZAF.9_1
+2078,South Africa,2020-05-06,Western Cape,151,,ZAF.9_1
+2079,South Africa,2020-05-07,Western Cape,234,,ZAF.9_1
+2080,South Africa,2020-05-08,Western Cape,503,,ZAF.9_1
+2081,South Africa,2020-05-09,Western Cape,312,,ZAF.9_1
+2082,South Africa,2020-05-10,Western Cape,359,,ZAF.9_1
+2083,South Africa,2020-05-11,Western Cape,453,,ZAF.9_1
+2084,South Africa,2020-05-12,Western Cape,484,,ZAF.9_1
+2085,South Africa,2020-05-13,Western Cape,608,,ZAF.9_1
+2086,South Africa,2020-05-14,Western Cape,522,,ZAF.9_1
+2087,South Africa,2020-05-15,Western Cape,563,,ZAF.9_1
+2088,South Africa,2020-05-16,Western Cape,606,,ZAF.9_1
+2089,South Africa,2020-05-17,Western Cape,890,,ZAF.9_1
+2090,South Africa,2020-05-18,Western Cape,741,,ZAF.9_1
+2091,South Africa,2020-05-19,Western Cape,604,,ZAF.9_1
+2092,South Africa,2020-05-20,Western Cape,623,,ZAF.9_1
+2093,South Africa,2020-05-21,Western Cape,891,,ZAF.9_1
+2094,South Africa,2020-05-22,Western Cape,735,,ZAF.9_1
+2095,South Africa,2020-05-23,Western Cape,938,,ZAF.9_1
+2096,South Africa,2020-05-24,Western Cape,914,,ZAF.9_1
+2097,South Africa,2020-05-25,Western Cape,656,,ZAF.9_1
+2098,South Africa,2020-05-26,Western Cape,433,,ZAF.9_1
+2099,South Africa,2020-05-27,Western Cape,1064,,ZAF.9_1
+2100,South Africa,2020-05-28,Western Cape,861,,ZAF.9_1
+2101,South Africa,2020-05-29,Western Cape,1152,,ZAF.9_1
+2102,South Africa,2020-05-30,Western Cape,1254,,ZAF.9_1
+2103,South Africa,2020-05-31,Western Cape,1222,,ZAF.9_1
+2104,South Africa,2020-06-01,Western Cape,1185,,ZAF.9_1
+2105,South Africa,2020-06-02,Western Cape,1016,,ZAF.9_1
+2106,South Africa,2020-06-03,Western Cape,1074,,ZAF.9_1
+2107,South Africa,2020-06-04,Western Cape,2349,,ZAF.9_1
+2108,South Africa,2020-06-05,Western Cape,1801,,ZAF.9_1
+2109,South Africa,2020-06-06,Western Cape,1572,,ZAF.9_1
+2110,South Africa,2020-06-07,Western Cape,1445,,ZAF.9_1
+2111,South Africa,2020-06-08,Western Cape,1744,,ZAF.9_1
+2112,South Africa,2020-06-09,Western Cape,1251,,ZAF.9_1
+2113,South Africa,2020-06-10,Western Cape,1202,,ZAF.9_1
+2114,South Africa,2020-06-11,Western Cape,1401,,ZAF.9_1
+2115,South Africa,2020-06-12,Western Cape,1504,,ZAF.9_1
+2116,South Africa,2020-06-13,Western Cape,1679,,ZAF.9_1
+2117,South Africa,2020-06-14,Western Cape,1934,,ZAF.9_1
+2118,South Africa,2020-06-15,Western Cape,1604,,ZAF.9_1
+2119,South Africa,2020-06-16,Western Cape,1214,,ZAF.9_1
+2120,South Africa,2020-06-17,Western Cape,1198,,ZAF.9_1
+2121,South Africa,2020-06-18,Western Cape,967,,ZAF.9_1
+2122,South Africa,2020-06-19,Western Cape,1184,,ZAF.9_1
+2123,South Africa,2020-06-20,Western Cape,1467,,ZAF.9_1
+2124,South Africa,2020-06-21,Western Cape,1268,,ZAF.9_1
+2125,South Africa,2020-06-22,Western Cape,1113,,ZAF.9_1
+2126,South Africa,2020-06-23,Western Cape,958,,ZAF.9_1
+2127,South Africa,2020-06-24,Western Cape,1650,,ZAF.9_1
+2128,South Africa,2020-06-25,Western Cape,1618,,ZAF.9_1
+2129,South Africa,2020-06-26,Western Cape,1161,,ZAF.9_1
+2130,South Africa,2020-06-27,Western Cape,1374,,ZAF.9_1
+2131,South Africa,2020-06-28,Western Cape,1130,,ZAF.9_1
+2132,South Africa,2020-06-29,Western Cape,930,,ZAF.9_1
+2133,South Africa,2020-06-30,Western Cape,1106,,ZAF.9_1
+2134,South Africa,2020-07-01,Western Cape,1896,,ZAF.9_1
+2135,South Africa,2020-07-02,Western Cape,1464,,ZAF.9_1
+2136,South Africa,2020-07-03,Western Cape,1095,,ZAF.9_1
+2137,South Africa,2020-07-04,Western Cape,1440,,ZAF.9_1
+2138,South Africa,2020-07-05,Western Cape,1155,,ZAF.9_1
+2139,South Africa,2020-07-06,Western Cape,1407,,ZAF.9_1
+2140,South Africa,2020-07-07,Western Cape,1218,,ZAF.9_1
+2141,South Africa,2020-07-08,Western Cape,1136,,ZAF.9_1
+2142,South Africa,2020-07-09,Western Cape,1523,,ZAF.9_1
+2143,South Africa,2020-07-10,Western Cape,1252,,ZAF.9_1
+2144,South Africa,2020-07-11,Western Cape,1269,,ZAF.9_1
+2145,South Africa,2020-07-12,Western Cape,1063,,ZAF.9_1
+2146,South Africa,2020-07-13,Western Cape,945,,ZAF.9_1
+2147,South Africa,2020-07-14,Western Cape,855,,ZAF.9_1
+2148,South Africa,2020-07-15,Western Cape,1357,,ZAF.9_1
+2149,South Africa,2020-07-16,Western Cape,1430,,ZAF.9_1
+2150,South Africa,2020-07-17,Western Cape,1268,,ZAF.9_1
+2151,South Africa,2020-07-18,Western Cape,1157,,ZAF.9_1
+2152,South Africa,2020-07-19,Western Cape,515,,ZAF.9_1
+2153,South Africa,2020-07-20,Western Cape,-154,,ZAF.9_1
+2154,South Africa,2020-07-21,Western Cape,557,,ZAF.9_1
+2155,South Africa,2020-07-22,Western Cape,1518,,ZAF.9_1
+2156,South Africa,2020-07-23,Western Cape,1081,,ZAF.9_1
+2157,South Africa,2020-07-24,Western Cape,1083,,ZAF.9_1
+2158,South Africa,2020-07-25,Western Cape,1022,,ZAF.9_1
+2159,South Africa,2020-07-26,Western Cape,1046,,ZAF.9_1
+2160,South Africa,2020-07-27,Western Cape,521,,ZAF.9_1
+2161,South Africa,2020-07-28,Western Cape,383,,ZAF.9_1
+2162,South Africa,2020-07-29,Western Cape,754,,ZAF.9_1
+2163,South Africa,2020-07-30,Western Cape,703,,ZAF.9_1
+2164,South Africa,2020-07-31,Western Cape,783,,ZAF.9_1
+2165,South Africa,2020-08-01,Western Cape,966,,ZAF.9_1
+2166,South Africa,2020-08-02,Western Cape,649,,ZAF.9_1
+2167,South Africa,2020-08-03,Western Cape,238,,ZAF.9_1
+2168,South Africa,2020-08-04,Western Cape,185,,ZAF.9_1
+2169,South Africa,2020-08-05,Western Cape,770,,ZAF.9_1
+2170,South Africa,2020-08-06,Western Cape,568,,ZAF.9_1
+2171,South Africa,2020-08-07,Western Cape,428,,ZAF.9_1
+2172,South Africa,2020-08-08,Western Cape,561,,ZAF.9_1
+2173,South Africa,2020-08-09,Western Cape,371,,ZAF.9_1
+2174,South Africa,2020-08-10,Western Cape,254,,ZAF.9_1
+2175,South Africa,2020-08-11,Western Cape,103,,ZAF.9_1
+2176,South Africa,2020-08-12,Western Cape,220,,ZAF.9_1
+2177,South Africa,2020-08-13,Western Cape,440,,ZAF.9_1
+2178,South Africa,2020-08-14,Western Cape,594,,ZAF.9_1
+2179,South Africa,2020-08-15,Western Cape,419,,ZAF.9_1
+2180,South Africa,2020-08-16,Western Cape,460,,ZAF.9_1
+2181,South Africa,2020-08-17,Western Cape,160,,ZAF.9_1
+2182,South Africa,2020-08-18,Western Cape,130,,ZAF.9_1
+2183,South Africa,2020-08-19,Western Cape,471,,ZAF.9_1
+2184,South Africa,2020-08-20,Western Cape,406,,ZAF.9_1
+2185,South Africa,2020-08-21,Western Cape,326,,ZAF.9_1
+2186,South Africa,2020-08-22,Western Cape,343,,ZAF.9_1
+2187,South Africa,2020-08-23,Western Cape,303,,ZAF.9_1
+2188,South Africa,2020-08-24,Western Cape,79,,ZAF.9_1
+2189,South Africa,2020-08-25,Western Cape,114,,ZAF.9_1
+2190,South Africa,2020-08-26,Western Cape,216,,ZAF.9_1
+2191,South Africa,2020-08-27,Western Cape,276,,ZAF.9_1
+2192,South Africa,2020-08-28,Western Cape,234,,ZAF.9_1
+2193,South Africa,2020-08-29,Western Cape,169,,ZAF.9_1
+2194,South Africa,2020-08-30,Western Cape,232,,ZAF.9_1
+2195,South Africa,2020-08-31,Western Cape,113,,ZAF.9_1
+2196,South Africa,2020-09-01,Western Cape,93,,ZAF.9_1
+2197,South Africa,2020-09-02,Western Cape,239,,ZAF.9_1
+2198,South Africa,2020-09-03,Western Cape,229,,ZAF.9_1
+2199,South Africa,2020-09-04,Western Cape,205,,ZAF.9_1
+2200,South Africa,2020-09-05,Western Cape,195,,ZAF.9_1
+2201,South Africa,2020-09-06,Western Cape,205,,ZAF.9_1
+2202,South Africa,2020-09-07,Western Cape,57,,ZAF.9_1
+2203,South Africa,2020-09-08,Western Cape,87,,ZAF.9_1
+2204,South Africa,2020-09-09,Western Cape,293,,ZAF.9_1
+2205,South Africa,2020-09-10,Western Cape,243,,ZAF.9_1
+2206,South Africa,2020-09-11,Western Cape,181,,ZAF.9_1
+2207,South Africa,2020-09-12,Western Cape,231,,ZAF.9_1
+2208,South Africa,2020-09-13,Western Cape,152,,ZAF.9_1
+2209,South Africa,2020-09-14,Western Cape,55,,ZAF.9_1
+2210,South Africa,2020-09-15,Western Cape,52,,ZAF.9_1
+2211,South Africa,2020-09-16,Western Cape,229,,ZAF.9_1
+2212,South Africa,2020-09-17,Western Cape,228,,ZAF.9_1
+2213,South Africa,2020-09-18,Western Cape,162,,ZAF.9_1
+2214,South Africa,2020-09-19,Western Cape,201,,ZAF.9_1
+2215,South Africa,2020-09-20,Western Cape,149,,ZAF.9_1
+2216,South Africa,2020-09-21,Western Cape,19,,ZAF.9_1
+2217,South Africa,2020-09-22,Western Cape,90,,ZAF.9_1
+2218,South Africa,2020-09-23,Western Cape,214,,ZAF.9_1
+2219,South Africa,2020-09-24,Western Cape,250,,ZAF.9_1
+2220,South Africa,2020-09-25,Western Cape,144,,ZAF.9_1
+2221,South Africa,2020-09-26,Western Cape,71,,ZAF.9_1
+2222,South Africa,2020-09-27,Western Cape,135,,ZAF.9_1
+2223,South Africa,2020-09-28,Western Cape,63,,ZAF.9_1
+2224,South Africa,2020-09-29,Western Cape,48,,ZAF.9_1
+2225,South Africa,2020-09-30,Western Cape,198,,ZAF.9_1
