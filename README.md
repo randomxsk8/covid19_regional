@@ -1,5 +1,5 @@
 # A global association between Covid-19 cases and airborne particulate matter at regional level
-#### Solimini A.1, Filipponi F. 2, Alunni Fegatelli D. 1, Caputo B. 1, De Marco C.M. 1, Spagnoli A. 1, Vestri AR1.
+#### Solimini A.1, Filipponi F. 2, Alunni Fegatelli D. 1, Caputo B. 1, De Marco C.M. 1, Spagnoli A. 1, Vestri AR 1.
 
 1. Department of Public Health and Infectious Diseases, Sapienza University of Rome, Piazzale Aldo Moro 5, 00185 Rome, Italy
 2. Institute for Environmental Protection and Research (ISPRA), Via Vitaliano Brancati 48, 00144 Rome, Italy
