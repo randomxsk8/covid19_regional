@@ -7,7 +7,7 @@
 
 -----------------
 
-This is the data repository for the paper published in Scientific Reports http://www.nature.com/articles/s41598-021-85751-z. The analysis is based on a large global dataset built by collecting information from various freely available sources. We provide here a static dataset with the file used in the analysis and a linux bash script for downloading updated Covid-19 data.
+This is the data repository for the paper published in Scientific Reports http://www.nature.com/articles/s41598-021-85751-z. The analysis is based on a large global dataset built by collecting information from various freely available sources. We provide here a static dataset with the file used in the analysis (tinyurl.com/ujdcfruz) and a linux bash script for downloading updated Covid-19 data (https://tinyurl.com/adyzjs8c). Explanatory Readme files are also provided.
 
 -----------------
 
