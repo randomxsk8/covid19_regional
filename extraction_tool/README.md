@@ -37,5 +37,3 @@ You need last version of R and Python installed and some modules are needed to r
 - fuzzymatcher
 
 ---------------------------
-
-There are also some notebooks that describe data with geopandas under notebook folder!
