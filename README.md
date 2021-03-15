@@ -19,14 +19,6 @@ The Covid-19 dataset was built by integrating several repositories on GitHub, th
 Information on the Covid-19 cumulative tests performed at the date of outcome and several country level covariates (prevalence of diabetes, GDP etc.) were extracted from our world data (https://ourworldindata.org/)
 Government Response Stringency Index was downloaded from https://www.bsg.ox.ac.uk/research/research-projects/covid-19-government-response-tracker
 
----------------------------------
-
-
-Static dataset
-This is updated on May 1st, 2020.
-Covid-19 cases LINK
-Air Pollution and Temperature LINK
-Socio demographic and other covariates LINK
 
 ---------------------------------
 
