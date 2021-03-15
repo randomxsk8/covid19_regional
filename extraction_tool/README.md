@@ -3,7 +3,7 @@
 
 
 Update of Covid-19 cases
-This is the Linux bash script for downloading updated Covid-19 data.
+This is the Linux bash script used to download Covid-19 data for the paper http://www.nature.com/articles/s41598-021-85751-z.
 
 You can download them separate for country,continent, or the entire csv.
 You can find COVID-19 dailycases data under 'csv_final' folder (most of the countries are updated to 10-01-2020).
@@ -37,3 +37,5 @@ You need last version of R and Python installed and some modules are needed to r
 - fuzzymatcher
 
 ---------------------------
+
+Please refer to the published paper for details
