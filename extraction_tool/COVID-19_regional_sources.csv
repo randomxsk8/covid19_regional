@@ -1,0 +1,56 @@
+Continent,Country,Link to source
+Asia,China,https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/who_covid_19_situation_reports/who_covid_19_sit_rep_time_series/who_covid_19_sit_rep_time_series.csv
+, Japan,https://raw.githubusercontent.com/reustle/covid19japan-data/master/docs/patient_data/2020-04-09.json
+, Thailand,https://data.go.th/en/dataset/covid-19-daily
+, Indonesia,https://docs.google.com/spreadsheets/d/1ma1T9hWbec1pXlwZ89WakRk-OfVUQZsOCFl4FwZxzVw/edit#gid=2052139453
+, South Korea,https://github.com/parksw3/COVID19-Korea/blob/master/COVID19-Korea-2020-04-06.xlsx
+,,
+Middle East, India,https://raw.githubusercontent.com/mrinal000/covid19_india_data/master/covid19_data/csv/individual/ncov19individual_clean.csv
+, Afghanistan,https://docs.google.com/spreadsheets/d/1F-AMEDtqK78EA6LYME2oOsWQsgJi4CT3V_G4Uo-47Rg/export?format=csv
+, Pakistan,https://raw.githubusercontent.com/ShahrozTanveer/covid19-pakistan/master/data/covid-19-pakistan-data.csv
+, Qatar,https://raw.githubusercontent.com/thlaegler/covid-19-monitor/456bcb1bd4a08963a8acc31529cad64899c52586/data/by_country/Qatar.csv
+, Bahrain,https://raw.githubusercontent.com/thlaegler/covid-19-monitor/456bcb1bd4a08963a8acc31529cad64899c52586/data/by_country/Bahrain.csv
+, Lebanon ,https://raw.githubusercontent.com/thlaegler/covid-19-monitor/456bcb1bd4a08963a8acc31529cad64899c52586/data/by_country/Lebanon.csv
+,,
+America, United States ,https://github.com/nytimes/covid-19-data
+, Canada,https://github.com/ishaberry/Covid19Canada/blob/master/cases.csv?raw=true
+, Brazil,https://github.com/elhenrico/covid19-Brazil-timeseries/blob/master/confirmed-new.csv
+, Chile ,https://raw.githubusercontent.com/YachayData/COVID-19/master/COVID19_Chile_Regiones-casos_nuevos.CSV
+, Ecuador ,https://github.com/pablora19/COVID19_EC/blob/master/covid_ec.csv
+, Peru ,https://github.com/jmcastagnetto/covid-19-peru-data/blob/master/datos/covid-19-peru-data.csv
+, Dominican Republic ,https://raw.githubusercontent.com/EmmanuelCruz05/COVID-19_RD/master/COVID-19_RD.csv
+, Mexico ,https://raw.githubusercontent.com/bialikover/covid-mexico/master/data/confirmados/confirmados-2020-04-05.csv
+, Colombia ,https://raw.githubusercontent.com/dfuribez/COVID-19-Colombia/master/dataset.csv
+, Bolivia,https://raw.githubusercontent.com/mauforonda/covid19-bolivia/master/confirmados.csv
+, Paraguay,https://public.tableau.com/profile/mspbs#!/vizhome/COVID19PY-Registros/Descargardatos
+, Argentina ,https://docs.google.com/spreadsheets/d/16-bnsDdmmgtSxdWbVMboIHo5FRuz76DBxsz_BbsEVWA/export?format=csv&id=16-bnsDdmmgtSxdWbVMboIHo5FRuz76DBxsz_BbsEVWA&gid=0
+, Costa Rica,http://geovision.uned.ac.cr/oges/archivos_covid/04_07/04_07_CSV.csv
+, Puerto Rico,https://raw.githubusercontent.com/marcmaceira/covid-19-pr-data/master/time_series/municipality/time_series-by_municipality-confirmed.csv
+, Cuba ,https://raw.githubusercontent.com/covid19cubadata/covid19cubadata.github.io/master/data/covid19-cuba.json
+,,
+Oceania,Australia ,https://raw.githubusercontent.com/pappubahry/AU_COVID19/master/time_series_cases.csv
+,New Zealand,https://raw.githubusercontent.com/UoA-eResearch/nz-covid19-data-auto/master/data.csv
+,,
+Africa, South Africa ,https://raw.githubusercontent.com/dsfsi/covid19za/master/data/covid19za_provincial_cumulative_timeline_confirmed.csv
+, Algeria ,https://raw.githubusercontent.com/dsfsi/covid19africa/master/data/line-list-algeria.csv
+, Nigeria,https://raw.githubusercontent.com/dsfsi/covid19africa/master/data/line-list-nigeria.csv
+, Ethiopia,https://raw.githubusercontent.com/dsfsi/covid19africa/master/data/line-list-ethiopia.csv
+, Ghana,https://raw.githubusercontent.com/dsfsi/covid19africa/master/data/line-list-ghana.csv
+, Niger,https://raw.githubusercontent.com/dsfsi/covid19africa/master/data/line-list-niger.csv
+, Senegal,https://raw.githubusercontent.com/senegalouvert/COVID-19/master/data/2020.csv
+, Gambia,https://raw.githubusercontent.com/dsfsi/covid19africa/master/data/line-list-gambia.csv
+,,
+Europa, Italy,https://github.com/pcm-dpc/COVID-19
+, Spain,https://raw.githubusercontent.com/IFCA/covid-19-spain/master/dataset/by-province.csv
+, Germany,https://github.com/jgehrcke/covid-19-germany-gae
+, United_Kingdom,https://raw.githubusercontent.com/tomwhite/covid-19-uk-data/master/data/covid-19-cases-uk.csv
+, Belgium ,https://epistat.sciensano.be/Data/COVID19BE_CASES_MUNI_CUM.csv
+, Netherlands,https://raw.githubusercontent.com/J535D165/CoronaWatchNL/master/data-geo/data-municipal/RIVM_NL_municipal.csv
+, Austria,https://raw.githubusercontent.com/Ramblurr/Austria-COVID-19/master/data/cases.csv
+, Norway,https://raw.githubusercontent.com/thohan88/covid19-nor-data/master/data/01_infected/msis/municipality_and_district.csv
+, Sweden,https://raw.githubusercontent.com/jannesgg/swe-covid-19/master/time_series_confimed-confirmed.csv
+, Czech_Republic,https://onemocneni-aktualne.mzcr.cz/api/v1/covid-19/osoby.csv-metadata.json
+, Ireland,https://data.gov.ie/dataset/covid19countystatisticshpscireland
+, Poland,https://raw.githubusercontent.com/dtandev/coronavirus/master/data/CoronavirusPL%20-%20Timeseries.csv
+, Romania,https://raw.githubusercontent.com/gabrielpreda/covid_19_ro/master/ro_covid_19_time_series/ro_covid_19_time_series.csv
+, Luxembourg,https://raw.githubusercontent.com/thlaegler/covid-19-monitor/456bcb1bd4a08963a8acc31529cad64899c52586/data/by_country/Luxembourg.csv
